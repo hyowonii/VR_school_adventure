@@ -1,1495 +1,4105 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 373
+
 newmtl 0bfc81add42147ed8880e14bd5fe832b_000.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_000.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_000.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_000.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_001.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_001.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_001.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_001.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_002.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_002.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_002.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_002.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_003.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_003.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_003.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_003.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_004.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_004.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_004.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_004.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_005.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_005.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_005.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_005.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_006.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_006.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_006.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_006.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_007.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_007.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_007.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_007.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_008.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_008.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_008.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_008.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_009.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_009.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_009.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_009.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_010.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_010.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_010.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_010.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_011.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_011.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_011.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_011.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_012.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_012.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_012.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_012.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_013.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_013.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_013.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_013.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_014.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_014.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_014.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_014.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_015.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_015.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_015.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_015.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_016.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_016.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_016.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_016.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_017.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_017.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_017.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_017.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_018.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_018.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_018.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_018.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_019.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_019.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_019.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_019.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_020.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_020.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_020.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_020.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_021.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_021.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_021.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_021.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_022.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_022.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_022.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_022.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_023.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_023.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_023.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_023.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_024.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_024.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_024.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_024.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_025.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_025.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_025.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_025.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_026.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_026.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_026.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_026.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_027.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_027.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_027.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_027.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_028.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_028.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_028.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_028.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_029.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_029.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_029.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_029.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_030.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_030.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_030.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_030.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_031.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_031.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_031.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_031.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_032.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_032.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_032.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_032.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_033.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_033.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_033.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_033.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_034.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_034.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_034.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_034.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_035.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_035.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_035.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_035.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_036.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_036.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_036.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_036.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_037.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_037.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_037.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_037.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_038.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_038.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_038.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_038.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_039.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_039.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_039.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_039.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_040.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_040.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_040.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_040.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_041.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_041.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_041.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_041.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_042.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_042.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_042.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_042.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_043.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_043.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_043.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_043.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_044.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_044.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_044.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_044.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_045.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_045.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_045.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_045.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_046.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_046.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_046.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_046.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_047.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_047.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_047.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_047.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_048.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_048.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_048.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_048.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_049.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_049.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_049.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_049.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_050.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_050.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_050.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_050.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_051.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_051.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_051.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_051.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_052.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_052.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_052.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_052.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_053.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_053.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_053.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_053.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_054.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_054.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_054.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_054.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_055.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_055.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_055.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_055.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_056.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_056.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_056.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_056.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_057.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_057.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_057.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_057.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_058.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_058.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_058.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_058.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_059.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_059.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_059.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_059.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_060.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_060.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_060.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_060.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_061.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_061.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_061.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_061.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_062.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_062.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_062.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_062.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_063.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_063.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_063.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_063.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_064.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_064.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_064.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_064.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_065.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_065.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_065.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_065.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_066.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_066.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_066.jpg
-
-newmtl 0bfc81add42147ed8880e14bd5fe832b_067.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_067.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_067.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_066.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_068.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_068.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_068.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_068.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_069.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_069.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_069.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_069.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_070.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_070.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_070.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_070.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_071.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_071.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_071.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_071.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_072.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_072.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_072.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_072.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_073.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_073.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_073.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_073.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_074.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_074.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_074.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_074.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_075.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_075.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_075.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_075.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_076.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_076.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_076.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_076.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_077.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_077.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_077.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_077.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_078.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_078.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_078.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_078.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_079.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_079.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_079.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_079.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_080.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_080.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_080.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_080.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_081.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_081.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_081.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_081.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_082.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_082.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_082.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_082.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_083.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_083.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_083.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_083.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_084.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_084.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_084.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_084.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_085.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_085.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_085.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_085.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_086.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_086.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_086.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_086.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_087.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_087.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_087.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_087.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_088.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_088.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_088.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_088.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_089.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_089.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_089.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_089.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_090.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_090.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_090.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_090.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_091.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_091.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_091.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_091.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_092.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_092.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_092.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_092.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_093.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_093.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_093.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_093.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_094.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_094.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_094.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_094.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_095.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_095.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_095.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_095.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_096.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_096.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_096.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_096.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_097.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_097.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_097.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_097.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_098.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_098.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_098.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_098.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_099.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_099.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_099.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_099.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_100.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_100.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_100.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_100.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_101.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_101.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_101.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_101.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_102.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_102.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_102.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_102.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_103.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_103.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_103.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_103.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_104.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_104.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_104.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_104.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_105.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_105.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_105.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_105.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_106.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_106.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_106.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_106.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_107.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_107.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_107.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_107.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_108.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_108.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_108.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_108.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_109.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_109.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_109.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_109.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_110.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_110.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_110.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_110.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_111.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_111.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_111.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_111.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_112.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_112.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_112.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_112.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_113.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_113.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_113.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_113.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_114.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_114.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_114.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_114.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_115.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_115.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_115.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_115.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_116.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_116.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_116.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_116.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_117.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_117.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_117.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_117.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_118.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_118.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_118.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_118.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_119.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_119.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_119.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_119.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_120.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_120.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_120.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_120.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_121.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_121.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_121.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_121.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_122.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_122.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_122.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_122.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_123.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_123.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_123.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_123.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_124.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_124.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_124.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_124.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_125.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_125.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_125.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_125.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_126.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_126.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_126.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_126.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_127.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_127.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_127.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_127.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_128.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_128.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_128.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_128.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_129.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_129.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_129.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_129.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_130.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_130.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_130.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_130.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_131.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_131.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_131.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_131.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_132.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_132.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_132.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_132.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_133.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_133.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_133.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_133.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_134.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_134.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_134.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_134.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_135.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_135.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_135.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_135.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_136.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_136.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_136.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_136.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_137.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_137.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_137.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_137.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_138.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_138.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_138.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_138.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_139.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_139.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_139.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_139.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_140.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_140.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_140.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_140.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_141.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_141.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_141.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_141.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_142.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_142.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_142.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_142.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_143.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_143.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_143.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_143.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_144.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_144.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_144.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_144.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_145.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_145.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_145.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_145.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_146.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_146.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_146.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_146.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_147.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_147.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_147.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_147.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_148.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_148.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_148.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_148.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_149.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_149.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_149.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_149.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_150.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_150.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_150.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_150.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_151.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_151.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_151.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_151.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_152.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_152.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_152.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_152.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_153.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_153.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_153.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_153.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_154.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_154.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_154.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_154.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_155.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_155.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_155.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_155.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_156.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_156.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_156.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_156.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_157.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_157.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_157.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_157.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_158.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_158.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_158.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_158.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_159.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_159.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_159.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_159.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_160.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_160.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_160.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_160.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_161.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_161.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_161.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_161.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_162.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_162.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_162.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_162.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_163.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_163.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_163.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_163.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_164.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_164.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_164.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_164.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_165.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_165.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_165.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_165.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_166.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_166.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_166.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_166.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_167.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_167.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_167.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_167.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_168.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_168.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_168.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_168.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_169.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_169.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_169.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_169.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_170.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_170.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_170.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_170.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_171.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_171.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_171.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_171.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_172.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_172.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_172.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_172.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_173.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_173.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_173.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_173.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_174.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_174.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_174.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_174.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_175.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_175.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_175.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_175.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_176.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_176.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_176.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_176.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_177.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_177.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_177.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_177.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_178.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_178.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_178.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_178.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_179.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_179.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_179.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_179.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_180.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_180.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_180.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_180.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_181.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_181.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_181.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_181.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_182.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_182.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_182.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_182.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_183.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_183.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_183.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_183.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_184.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_184.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_184.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_184.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_185.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_185.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_185.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_185.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_186.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_186.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_186.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_186.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_187.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_187.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_187.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_187.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_188.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_188.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_188.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_188.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_189.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_189.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_189.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_189.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_190.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_190.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_190.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_190.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_191.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_191.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_191.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_191.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_192.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_192.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_192.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_192.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_193.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_193.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_193.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_193.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_194.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_194.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_194.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_194.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_195.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_195.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_195.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_195.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_196.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_196.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_196.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_196.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_197.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_197.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_197.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_197.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_198.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_198.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_198.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_198.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_199.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_199.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_199.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_199.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_200.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_200.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_200.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_200.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_201.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_201.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_201.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_201.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_202.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_202.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_202.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_202.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_203.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_203.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_203.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_203.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_204.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_204.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_204.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_204.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_205.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_205.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_205.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_205.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_206.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_206.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_206.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_206.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_207.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_207.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_207.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_207.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_208.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_208.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_208.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_208.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_209.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_209.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_209.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_209.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_210.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_210.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_210.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_210.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_211.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_211.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_211.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_211.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_212.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_212.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_212.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_212.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_213.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_213.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_213.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_213.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_214.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_214.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_214.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_214.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_215.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_215.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_215.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_215.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_216.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_216.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_216.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_216.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_217.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_217.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_217.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_217.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_218.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_218.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_218.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_218.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_219.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_219.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_219.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_219.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_220.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_220.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_220.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_220.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_221.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_221.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_221.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_221.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_222.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_222.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_222.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_222.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_223.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_223.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_223.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_223.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_224.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_224.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_224.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_224.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_225.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_225.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_225.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_225.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_226.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_226.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_226.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_226.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_227.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_227.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_227.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_227.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_228.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_228.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_228.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_228.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_229.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_229.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_229.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_229.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_230.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_230.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_230.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_230.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_231.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_231.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_231.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_231.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_232.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_232.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_232.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_232.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_233.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_233.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_233.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_233.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_234.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_234.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_234.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_234.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_235.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_235.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_235.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_235.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_236.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_236.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_236.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_236.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_237.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_237.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_237.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_237.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_238.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_238.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_238.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_238.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_239.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_239.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_239.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_239.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_240.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_240.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_240.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_240.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_241.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_241.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_241.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_241.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_242.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_242.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_242.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_242.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_243.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_243.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_243.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_243.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_244.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_244.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_244.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_244.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_245.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_245.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_245.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_245.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_246.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_246.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_246.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_246.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_247.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_247.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_247.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_247.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_248.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_248.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_248.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_248.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_249.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_249.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_249.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_249.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_250.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_250.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_250.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_250.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_251.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_251.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_251.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_251.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_252.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_252.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_252.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_252.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_253.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_253.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_253.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_253.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_254.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_254.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_254.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_254.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_255.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_255.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_255.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_255.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_256.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_256.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_256.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_256.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_257.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_257.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_257.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_257.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_258.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_258.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_258.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_258.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_259.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_259.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_259.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_259.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_260.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_260.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_260.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_260.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_261.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_261.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_261.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_261.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_262.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_262.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_262.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_262.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_263.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_263.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_263.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_263.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_264.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_264.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_264.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_264.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_265.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_265.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_265.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_265.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_266.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_266.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_266.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_266.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_267.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_267.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_267.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_267.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_268.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_268.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_268.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_268.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_269.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_269.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_269.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_269.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_270.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_270.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_270.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_270.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_271.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_271.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_271.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_271.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_272.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_272.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_272.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_272.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_273.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_273.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_273.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_273.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_274.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_274.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_274.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_274.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_275.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_275.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_275.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_275.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_276.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_276.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_276.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_276.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_277.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_277.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_277.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_277.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_278.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_278.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_278.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_278.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_279.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_279.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_279.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_279.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_280.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_280.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_280.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_280.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_281.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_281.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_281.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_281.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_282.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_282.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_282.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_282.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_283.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_283.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_283.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_283.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_284.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_284.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_284.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_284.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_285.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_285.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_285.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_285.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_286.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_286.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_286.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_286.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_287.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_287.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_287.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_287.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_288.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_288.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_288.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_288.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_289.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_289.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_289.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_289.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_290.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_290.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_290.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_290.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_291.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_291.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_291.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_291.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_292.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_292.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_292.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_292.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_293.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_293.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_293.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_293.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_294.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_294.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_294.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_294.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_295.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_295.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_295.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_295.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_296.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_296.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_296.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_296.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_297.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_297.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_297.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_297.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_298.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_298.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_298.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_298.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_299.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_299.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_299.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_299.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_300.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_300.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_300.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_300.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_301.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_301.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_301.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_301.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_302.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_302.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_302.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_302.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_303.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_303.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_303.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_303.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_304.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_304.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_304.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_304.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_305.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_305.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_305.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_305.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_306.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_306.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_306.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_306.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_307.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_307.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_307.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_307.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_308.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_308.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_308.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_308.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_309.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_309.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_309.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_309.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_310.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_310.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_310.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_310.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_311.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_311.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_311.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_311.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_312.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_312.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_312.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_312.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_313.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_313.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_313.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_313.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_314.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_314.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_314.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_314.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_315.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_315.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_315.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_315.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_316.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_316.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_316.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_316.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_317.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_317.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_317.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_317.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_318.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_318.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_318.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_318.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_319.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_319.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_319.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_319.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_320.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_320.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_320.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_320.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_321.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_321.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_321.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_321.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_322.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_322.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_322.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_322.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_323.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_323.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_323.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_323.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_324.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_324.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_324.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_324.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_325.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_325.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_325.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_325.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_326.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_326.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_326.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_326.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_327.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_327.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_327.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_327.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_328.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_328.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_328.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_328.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_329.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_329.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_329.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_329.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_330.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_330.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_330.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_330.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_331.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_331.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_331.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_331.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_332.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_332.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_332.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_332.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_333.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_333.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_333.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_333.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_334.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_334.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_334.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_334.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_335.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_335.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_335.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_335.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_336.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_336.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_336.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_336.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_337.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_337.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_337.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_337.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_338.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_338.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_338.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_338.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_339.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_339.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_339.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_339.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_340.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_340.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_340.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_340.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_341.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_341.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_341.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_341.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_342.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_342.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_342.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_342.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_343.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_343.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_343.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_343.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_344.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_344.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_344.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_344.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_345.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_345.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_345.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_345.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_346.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_346.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_346.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_346.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_347.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_347.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_347.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_347.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_348.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_348.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_348.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_348.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_349.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_349.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_349.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_349.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_350.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_350.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_350.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_350.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_351.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_351.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_351.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_351.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_352.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_352.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_352.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_352.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_353.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_353.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_353.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_353.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_354.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_354.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_354.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_354.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_355.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_355.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_355.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_355.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_356.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_356.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_356.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_356.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_357.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_357.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_357.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_357.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_358.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_358.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_358.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_358.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_359.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_359.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_359.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_359.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_360.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_360.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_360.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_360.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_361.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_361.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_361.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_361.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_362.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_362.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_362.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_362.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_363.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_363.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_363.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_363.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_364.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_364.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_364.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_364.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_365.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_365.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_365.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_365.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_366.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_366.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_366.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_366.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_367.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_367.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_367.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_367.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_368.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_368.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_368.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_368.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_369.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_369.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_369.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_369.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_370.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_370.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_370.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_370.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_371.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_371.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_371.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_371.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_372.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_372.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_372.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_372.jpg
 
 newmtl 0bfc81add42147ed8880e14bd5fe832b_373.jpg
-map_Ka 0bfc81add42147ed8880e14bd5fe832b_373.jpg
-map_Kd 0bfc81add42147ed8880e14bd5fe832b_373.jpg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\ohjs2\\Desktop\\VR_school_adventure\\공대탐험\\Assets\\Scenes\\Engineering_bulding\\0bfc81add42147ed8880e14bd5fe832b_373.jpg
