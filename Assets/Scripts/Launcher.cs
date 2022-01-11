@@ -7,6 +7,7 @@
 // </summary>
 // <author>developer@exitgames.com</author>
 // --------------------------------------------------------------------------------------------------------------------
+//수정본
 
 using UnityEngine;
 using UnityEngine.UI;
