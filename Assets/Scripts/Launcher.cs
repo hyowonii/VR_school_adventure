@@ -13,6 +13,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 using Photon.Realtime;
+using System;
 
 namespace Photon.Pun.Demo.PunBasics
 {
@@ -28,19 +29,22 @@ namespace Photon.Pun.Demo.PunBasics
 
         public InputField roomName;
         public InputField playerName;
-        public GameObject player;
+        public GameObject oldplayer;
+        public GameObject newplayer;
 	    public GameObject controlPanel;
+        public GameObject[] playerPrefabs;
+        private Camera playerCamera;
 
 
-		#endregion
+        #endregion
 
-		#region Private Fields
-		/// <summary>
-		/// Keep track of the current process. Since connection is asynchronous and is based on several callbacks from Photon, 
-		/// we need to keep track of this to properly adjust the behavior when we receive call back by Photon.
-		/// Typically this is used for the OnConnectedToMaster() callback.
-		/// </summary>
-		bool isConnecting;
+        #region Private Fields
+        /// <summary>
+        /// Keep track of the current process. Since connection is asynchronous and is based on several callbacks from Photon, 
+        /// we need to keep track of this to properly adjust the behavior when we receive call back by Photon.
+        /// Typically this is used for the OnConnectedToMaster() callback.
+        /// </summary>
+        bool isConnecting;
 
 		/// <summary>
 		/// This client's version number. Users are separated from each other by gameVersion (which allows you to make breaking changes).
@@ -143,7 +147,6 @@ namespace Photon.Pun.Demo.PunBasics
 			Debug.LogError("Disconnected");
 
 			isConnecting = false;
-			controlPanel.SetActive(true);
 
 		}
 
@@ -162,11 +165,38 @@ namespace Photon.Pun.Demo.PunBasics
 		{
 			Debug.Log("joined room");
 
-            player.transform.position = new Vector3(41, 1, -27);
+            CreatePlayer();
+
+            Debug.Log(PhotonNetwork.CurrentRoom.PlayerCount);
 			
 		}
 
-		#endregion
-		
-	}
+        private void CreatePlayer()
+        {
+            Vector3 initLocation = new Vector3(41, 0, -27);
+
+            int randomPrefab = UnityEngine.Random.Range(0, playerPrefabs.Length);
+            newplayer = PhotonNetwork.Instantiate(playerPrefabs[randomPrefab].name, initLocation, Quaternion.identity,0);
+            newplayer.transform.localScale -= new Vector3(0.9f, 0.9f, 0.9f);
+
+            if (PhotonNetwork.IsConnected && newplayer.GetPhotonView().IsMine)
+            {
+                Camera.main.transform.SetParent(newplayer.transform);
+                newplayer.AddComponent<Player_control>();
+            }
+
+            newplayer.AddComponent<BoxCollider>();
+            newplayer.AddComponent<Rigidbody>();
+            newplayer.GetComponent<Rigidbody>().isKinematic = true;
+
+            BoxCollider collider = newplayer.GetComponent<BoxCollider>();
+            collider.center = new Vector3(0, 8, 0);
+            collider.size = new Vector3(8, 20, 8);
+
+            Destroy(oldplayer);
+        }
+        #endregion
+
+       
+    }
 }
