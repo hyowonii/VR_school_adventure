@@ -14,6 +14,7 @@ public class Player_control : MonoBehaviour
     public float rotSpeed = 500;
     public Camera myCamera;
     public PhotonView photonView;
+    public GameObject playerUI;
   
     void Start()
     {
@@ -22,12 +23,13 @@ public class Player_control : MonoBehaviour
 
         Debug.Log(scale);
 
+        photonView = PhotonView.Get(this);
+
         if (PhotonNetwork.IsConnected)
-        {
-            photonView = PhotonView.Get(this);
+        {    
             myCamera.transform.localPosition = new Vector3(0, 1/scale, 0);
         }
-        gameObject.name = "player";
+       
         gameObject.layer = 3;
         foreach (Transform child in transform)
         {
