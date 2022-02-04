@@ -13,34 +13,41 @@ using UnityEngine;
 using UnityEngine.UI;
 
 using Photon.Realtime;
+using System;
+using Photon.Pun;
 
-namespace Photon.Pun.Demo.PunBasics
-{
-	#pragma warning disable 649
 
-    /// <summary>
-    /// Launch manager. Connect, join a random room or create one if none or all full.
-    /// </summary>
-	public class Launcher : MonoBehaviourPunCallbacks
+#pragma warning disable 649
+
+/// <summary>
+/// Launch manager. Connect, join a random room or create one if none or all full.
+/// </summary>
+public class Launcher : MonoBehaviourPunCallbacks
     {
 
         #region Private Serializable Fields
 
         public InputField roomName;
         public InputField playerName;
-        public GameObject player;
+        
+		public GameObject player;
+		public GameObject oldplayer;
+		private GameObject newplayer;
+       
 	    public GameObject controlPanel;
+        public GameObject[] playerPrefabs;
+        public GameObject VRCamera;
+		
 
+        #endregion
 
-		#endregion
-
-		#region Private Fields
-		/// <summary>
-		/// Keep track of the current process. Since connection is asynchronous and is based on several callbacks from Photon, 
-		/// we need to keep track of this to properly adjust the behavior when we receive call back by Photon.
-		/// Typically this is used for the OnConnectedToMaster() callback.
-		/// </summary>
-		bool isConnecting;
+        #region Private Fields
+        /// <summary>
+        /// Keep track of the current process. Since connection is asynchronous and is based on several callbacks from Photon, 
+        /// we need to keep track of this to properly adjust the behavior when we receive call back by Photon.
+        /// Typically this is used for the OnConnectedToMaster() callback.
+        /// </summary>
+        bool isConnecting;
 
 		/// <summary>
 		/// This client's version number. Users are separated from each other by gameVersion (which allows you to make breaking changes).
@@ -84,10 +91,12 @@ namespace Photon.Pun.Demo.PunBasics
 			// we check if we are connected or not, we join if we are , else we initiate the connection to the server.
 			if (PhotonNetwork.IsConnected)
 			{
+                Debug.Log("isConnected");
 				// #Critical we need at this point to attempt joining a Random Room. If it fails, we'll get notified in OnJoinRandomFailed() and we'll create one.
 				PhotonNetwork.JoinRoom(roomName.text);
-			}else{				
-				// #Critical, we must first and foremost connect to Photon Online Server.
+			}else{
+                // #Critical, we must first and foremost connect to Photon Online Server.
+                Debug.Log("not connected");
 				PhotonNetwork.ConnectUsingSettings();
                 PhotonNetwork.GameVersion = this.gameVersion;
 			}
@@ -143,7 +152,6 @@ namespace Photon.Pun.Demo.PunBasics
 			Debug.LogError("Disconnected");
 
 			isConnecting = false;
-			controlPanel.SetActive(true);
 
 		}
 
@@ -162,11 +170,46 @@ namespace Photon.Pun.Demo.PunBasics
 		{
 			Debug.Log("joined room");
 
-            player.transform.position = new Vector3(41, 1, -27);
+            CreatePlayer();
+            Time.timeScale = 1;
+
+            Debug.Log(PhotonNetwork.CurrentRoom.PlayerCount);
 			
 		}
 
-		#endregion
-		
-	}
-}
+        public void setRoomName(String name)
+        {
+            roomName.text = name;
+        }
+
+        private void CreatePlayer()
+        {
+            Vector3 initLocation = new Vector3(43, 0, -27);
+
+            int randomPrefab = UnityEngine.Random.Range(0, playerPrefabs.Length);
+            newplayer = PhotonNetwork.Instantiate(playerPrefabs[randomPrefab].name, initLocation, Quaternion.identity, 0);
+            newplayer.transform.SetParent(player.transform);
+			newplayer.transform.localScale -= new Vector3(0.9f, 0.9f, 0.9f);
+			VRCamera.transform.localPosition = new Vector3(0,1,0);
+
+            if (PhotonNetwork.IsConnected && newplayer.GetPhotonView().IsMine)
+            {
+                //Camera.main.transform.SetParent(newplayer.transform);
+                //newplayer.AddComponent<Player_control>();
+				newplayer.AddComponent<VR_control>();
+            }
+
+            newplayer.name = playerName.text;
+            PhotonNetwork.NickName = playerName.text;
+            newplayer.AddComponent<BoxCollider>();
+            newplayer.AddComponent<Rigidbody>();
+            newplayer.GetComponent<Rigidbody>().isKinematic = false;
+
+            BoxCollider collider = newplayer.GetComponent<BoxCollider>();
+            collider.center = new Vector3(0, 8, 0);
+            collider.size = new Vector3(8, 20, 8);
+
+            Destroy(oldplayer);
+        }
+        #endregion 
+    }
