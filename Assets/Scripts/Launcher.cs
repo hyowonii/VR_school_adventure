@@ -15,6 +15,7 @@ using UnityEngine.UI;
 using Photon.Realtime;
 using System;
 using Photon.Pun;
+using TMPro;
 
 
 #pragma warning disable 649
@@ -28,8 +29,9 @@ public class Launcher : MonoBehaviourPunCallbacks
         #region Private Serializable Fields
 
         public InputField roomName;
-        public InputField playerName;
-        
+        //public InputField playerName;
+		public TextMeshProUGUI displayPlayerName;
+
 		public GameObject player;
 		public GameObject oldplayer;
 		private GameObject newplayer;
@@ -199,8 +201,8 @@ public class Launcher : MonoBehaviourPunCallbacks
 				newplayer.AddComponent<VR_control>();
             }
 
-            newplayer.name = playerName.text;
-            PhotonNetwork.NickName = playerName.text;
+            newplayer.name = displayPlayerName.text;
+            PhotonNetwork.NickName = displayPlayerName.text;
             newplayer.AddComponent<BoxCollider>();
             newplayer.AddComponent<Rigidbody>();
             newplayer.GetComponent<Rigidbody>().isKinematic = false;

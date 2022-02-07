@@ -28,7 +28,7 @@ namespace VRKeys {
 	/// you have finished validating the submitted text.
 	/// </summary>
 	public class Keyboard : MonoBehaviour {
-		public Vector3 positionRelativeToUser = new Vector3 (0f, 1.35f, 2f);
+		//public Vector3 positionRelativeToUser = new Vector3 (0.03f, -0.05f, 0.02f);
 
 		public KeyboardLayout keyboardLayout = KeyboardLayout.Qwerty;
 
@@ -125,6 +125,8 @@ namespace VRKeys {
 
 		private Layout layout;
 
+		public GameObject uiJoinRoom;	// ui
+
 		/// <summary>
 		/// Initialization.
 		/// </summary>
@@ -134,6 +136,8 @@ namespace VRKeys {
 			playerSpace = new GameObject ("Play Space");
 			//playerSpace.transform.localPosition = InputTracking.GetLocalPosition (XRNode.TrackingReference);
 			//playerSpace.transform.localRotation = InputTracking.GetLocalRotation (XRNode.TrackingReference);
+			playerSpace.transform.SetParent(uiJoinRoom.transform);
+			playerSpace.transform.localPosition = Vector3.zero;
 
 			leftHand = new GameObject ("Left Hand");
 			rightHand = new GameObject ("Right Hand");
@@ -163,7 +167,9 @@ namespace VRKeys {
 
 		private void PositionAndAttachMallets () {
 			transform.SetParent (playerSpace.transform, false);
-			transform.localPosition = positionRelativeToUser;
+			transform.localPosition = new Vector3(0.03f, -0.05f, 0.02f);
+			transform.localRotation = Quaternion.Euler(0f, 90f, 0f);
+			transform.localScale = new Vector3(0.4f, 0.4f, 0.4f);
 
 			leftMallet.transform.SetParent (leftHand.transform);
 			leftMallet.transform.localPosition = Vector3.zero;
@@ -353,17 +359,18 @@ namespace VRKeys {
 			OnUpdate.Invoke (text);
 		}
 
-		/// <summary>
-		/// Submit and close the keyboard.
-		/// </summary>
-		public void Submit () {
-			OnSubmit.Invoke (text);
-		}
+        /// <summary>
+        /// Submit and close the keyboard.
+        /// </summary>
+        public void Submit()
+        {
+            OnSubmit.Invoke(text);
+        }
 
-		/// <summary>
-		/// Cancel input and close the keyboard.
-		/// </summary>
-		public void Cancel () {
+        /// <summary>
+        /// Cancel input and close the keyboard.
+        /// </summary>
+        public void Cancel () {
 			OnCancel.Invoke ();
 			Disable ();
 		}
@@ -408,59 +415,65 @@ namespace VRKeys {
 			yield break;
 		}
 
-		/// <summary>
-		/// Show the specified validation notice.
-		/// </summary>
-		/// <param name="message">Message to show.</param>
-		public void ShowValidationMessage (string message) {
-			validationMessage.text = message;
-			validationNotice.SetActive (true);
-			infoNotice.SetActive (false);
-			successNotice.SetActive (false);
-		}
+        /// <summary>
+        /// Show the specified validation notice.
+        /// </summary>
+        /// <param name="message">Message to show.</param>
+        public void ShowValidationMessage(string message)
+        {
+            validationMessage.text = message;
+            validationNotice.SetActive(true);
+            infoNotice.SetActive(false);
+            successNotice.SetActive(false);
+        }
 
-		/// <summary>
-		/// Show the specified input notice.
-		/// </summary>
-		/// <param name="message">Message to show.</param>
-		public void ShowInfoMessage (string message) {
-			infoMessage.text = message;
-			validationNotice.SetActive (false);
-			infoNotice.SetActive (true);
-			successNotice.SetActive (false);
-		}
+        /// <summary>
+        /// Show the specified input notice.
+        /// </summary>
+        /// <param name="message">Message to show.</param>
+        public void ShowInfoMessage(string message)
+        {
+            infoMessage.text = message;
+            validationNotice.SetActive(false);
+            infoNotice.SetActive(true);
+            successNotice.SetActive(false);
+        }
 
-		/// <summary>
-		/// Show the specified success notice.
-		/// </summary>
-		/// <param name="message">Message to show.</param>
-		public void ShowSuccessMessage (string message) {
-			successMessage.text = message;
-			validationNotice.SetActive (false);
-			infoNotice.SetActive (false);
-			successNotice.SetActive (true);
-		}
+        /// <summary>
+        /// Show the specified success notice.
+        /// </summary>
+        /// <param name="message">Message to show.</param>
+        public void ShowSuccessMessage(string message)
+        {
+            successMessage.text = message;
+            validationNotice.SetActive(false);
+            infoNotice.SetActive(false);
+            successNotice.SetActive(true);
+        }
 
-		/// <summary>
-		/// Hide the validation notice.
-		/// </summary>
-		public void HideValidationMessage () {
-			validationNotice.SetActive (false);
-		}
+        /// <summary>
+        /// Hide the validation notice.
+        /// </summary>
+        public void HideValidationMessage()
+        {
+            validationNotice.SetActive(false);
+        }
 
-		/// <summary>
-		/// Hide the info notice.
-		/// </summary>
-		public void HideInfoMessage () {
-			infoNotice.SetActive (false);
-		}
+        /// <summary>
+        /// Hide the info notice.
+        /// </summary>
+        public void HideInfoMessage()
+        {
+            infoNotice.SetActive(false);
+        }
 
-		/// <summary>
-		/// Hide the success notice.
-		/// </summary>
-		public void HideSuccessMessage () {
-			successNotice.SetActive (false);
-		}
+        /// <summary>
+        /// Hide the success notice.
+        /// </summary>
+        public void HideSuccessMessage()
+        {
+            successNotice.SetActive(false);
+        }
 
         /// <summary> Setup the keys. </summary>
         private IEnumerator SetupKeys()
@@ -585,7 +598,7 @@ namespace VRKeys {
 			string display = (text.Length > 37) ? text.Substring (text.Length - 37) : text;
 
 			displayText.text = string.Format (
-				"<#{0}>{1}</color><#{2}>_</color>",
+				"{1}",
 				ColorUtility.ToHtmlStringRGB (displayTextColor),
 				display,
 				ColorUtility.ToHtmlStringRGB (caretColor)
