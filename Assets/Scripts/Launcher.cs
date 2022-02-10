@@ -30,7 +30,7 @@ public class Launcher : MonoBehaviourPunCallbacks
 
         public InputField roomName;
         //public InputField playerName;
-		public TextMeshProUGUI displayPlayerName;
+		public TextMeshProUGUI playerName;
 
 		public GameObject player;
 		public GameObject oldplayer;
@@ -187,31 +187,40 @@ public class Launcher : MonoBehaviourPunCallbacks
         private void CreatePlayer()
         {
             Vector3 initLocation = new Vector3(43, 0, -27);
+        player.transform.position = initLocation;
 
             int randomPrefab = UnityEngine.Random.Range(0, playerPrefabs.Length);
-            newplayer = PhotonNetwork.Instantiate(playerPrefabs[randomPrefab].name, initLocation, Quaternion.identity, 0);
+            
+            newplayer = PhotonNetwork.Instantiate(playerPrefabs[randomPrefab].name, player.transform.position, Quaternion.identity, 0);
             newplayer.transform.SetParent(player.transform);
 			newplayer.transform.localScale -= new Vector3(0.9f, 0.9f, 0.9f);
-			VRCamera.transform.localPosition = new Vector3(0,1,0);
+            newplayer.layer = 3;
+            foreach (Transform child in newplayer.transform)
+            {
+              child.gameObject.layer = 3;
+            }
+            VRCamera.transform.localPosition = new Vector3(0,1,0);
 
             if (PhotonNetwork.IsConnected && newplayer.GetPhotonView().IsMine)
             {
                 //Camera.main.transform.SetParent(newplayer.transform);
                 //newplayer.AddComponent<Player_control>();
-				newplayer.AddComponent<VR_control>();
+				//newplayer.AddComponent<VR_control>();
             }
 
-            newplayer.name = displayPlayerName.text;
-            PhotonNetwork.NickName = displayPlayerName.text;
+            newplayer.name = playerName.text;
+            PhotonNetwork.NickName = playerName.text;
+            player.GetComponent<Rigidbody>().isKinematic = false;
             newplayer.AddComponent<BoxCollider>();
-            newplayer.AddComponent<Rigidbody>();
-            newplayer.GetComponent<Rigidbody>().isKinematic = false;
+            //newplayer.AddComponent<Rigidbody>();
+            //newplayer.GetComponent<Rigidbody>().isKinematic = false;
 
             BoxCollider collider = newplayer.GetComponent<BoxCollider>();
             collider.center = new Vector3(0, 8, 0);
             collider.size = new Vector3(8, 20, 8);
 
             Destroy(oldplayer);
+            oldplayer = newplayer;
         }
         #endregion 
     }
