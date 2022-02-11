@@ -481,7 +481,7 @@ namespace VRKeys {
             bool activeState = canvas.activeSelf;
 
             // Hide everything before setting up the keys
-            canvas.SetActive(false);
+            //canvas.SetActive(false);
             keysParent.gameObject.SetActive(false);
 
             // Remove previous keys
