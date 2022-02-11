@@ -4410,7 +4410,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   roomName: {fileID: 1269334380}
-  displayPlayerName: {fileID: 114000011698442155}
+  playerName: {fileID: 0}
   player: {fileID: 1302526468}
   oldplayer: {fileID: 357402123}
   controlPanel: {fileID: 709125381}
@@ -7577,6 +7577,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 1223660506}
+  roomName: {fileID: 0}
 --- !u!114 &1236127012
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8341,8 +8342,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  rotSpeed: 500
+  dir: {x: 0, y: 0, z: 0}
   VRCamera: {fileID: 450318893}
-  Player: {fileID: 357402123}
+  myPlayer: {fileID: 0}
   photonView: {fileID: 0}
 --- !u!1 &1322475878
 GameObject:
@@ -10765,6 +10768,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 709125381}
+  roomName: {fileID: 0}
 --- !u!1 &1688196405
 GameObject:
   m_ObjectHideFlags: 0
@@ -12650,8 +12654,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1944714644}
   m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 2.342, y: -0.436, z: 1.378}
-  m_LocalScale: {x: 1.8624506, y: 0.4953044, z: 0.0014854779}
+  m_LocalPosition: {x: 2.342, y: -0.096, z: 1.378}
+  m_LocalScale: {x: 2.7886474, y: 0.4953044, z: 0.0014854779}
   m_Children: []
   m_Father: {fileID: 961295484}
   m_RootOrder: 31
@@ -18699,6 +18703,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297083750177215
 Transform:
   m_ObjectHideFlags: 0
@@ -18800,6 +18805,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297083774945495
 Transform:
   m_ObjectHideFlags: 0
@@ -18866,6 +18872,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297084053056929
 Transform:
   m_ObjectHideFlags: 0
@@ -19071,6 +19078,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297084424984760
 Transform:
   m_ObjectHideFlags: 0
@@ -19180,6 +19188,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!1 &5634297084477189440
 GameObject:
   m_ObjectHideFlags: 0
@@ -19267,6 +19276,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297084477189447
 Transform:
   m_ObjectHideFlags: 0
@@ -19302,6 +19312,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297084536367573
 Transform:
   m_ObjectHideFlags: 0
@@ -19485,6 +19496,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297084548600043
 Transform:
   m_ObjectHideFlags: 0
@@ -19533,6 +19545,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297084696405410
 Transform:
   m_ObjectHideFlags: 0
@@ -19674,6 +19687,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297084986773481
 Transform:
   m_ObjectHideFlags: 0
@@ -19845,6 +19859,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297085060050055
 Transform:
   m_ObjectHideFlags: 0
@@ -19892,6 +19907,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297085107885149
 Transform:
   m_ObjectHideFlags: 0
@@ -20075,6 +20091,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 709125381}
+  roomName: {fileID: 0}
 --- !u!4 &5634297085168751110
 Transform:
   m_ObjectHideFlags: 0
@@ -20110,6 +20127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297085483263705
 Transform:
   m_ObjectHideFlags: 0
@@ -20219,6 +20237,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UI: {fileID: 0}
+  roomName: {fileID: 0}
 --- !u!4 &5634297085646764189
 Transform:
   m_ObjectHideFlags: 0
