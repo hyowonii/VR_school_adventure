@@ -15,13 +15,11 @@ public class UI_Record : MonoBehaviour
     private void Start()
     {
         aud = GetComponent<AudioSource>();
-        //samples = new float[sampleRate];
     }
 
     public void RecSnd()
     {
         if (aud.clip != null) Destroy(aud.clip);
-        //aud.clip = Microphone.Start(null, false, 10, sampleRate);
         aud.clip = Microphone.Start(null, false, 900, sampleRate);
         while (!(Microphone.GetPosition(null) > 0)) ;
     }
@@ -31,7 +29,7 @@ public class UI_Record : MonoBehaviour
        Microphone.End(Microphone.devices[0]);
     }
 
-    public void PlaySnd()
+    /*public void PlaySnd()
     {
        aud.volume = 1.0f;
        aud.Play();
@@ -40,13 +38,10 @@ public class UI_Record : MonoBehaviour
     public void StopPlaying()
     {
         aud.Stop();
-    }
+    }*/
 
     public void Saving()
     {
-        //samples = new float[aud.clip.samples * aud.clip.channels];
-        //recording.GetData(samples, 0);
-        //aud.clip.setData(samples, 0);
         DateTime t = DateTime.Now;
         string today = t.ToString(" yyyy-MM-dd-HH-mm-ss");
         SavWav.Save("D:/recording/"+ today, aud.clip);
