@@ -40,7 +40,6 @@ public class Launcher : MonoBehaviourPunCallbacks
 	    public GameObject controlPanel;
         public GameObject[] playerPrefabs;
         public GameObject VRCamera;
-        public GameObject UI_record;
 		
 
         #endregion
@@ -96,6 +95,7 @@ public class Launcher : MonoBehaviourPunCallbacks
 			{
                 Debug.Log("isConnected");
 				// #Critical we need at this point to attempt joining a Random Room. If it fails, we'll get notified in OnJoinRandomFailed() and we'll create one.
+
 				PhotonNetwork.JoinRoom(roomName);
                 // UI_record 표시
                 UI_record.SetActive(true);
