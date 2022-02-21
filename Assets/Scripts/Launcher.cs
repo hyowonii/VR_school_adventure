@@ -28,7 +28,8 @@ public class Launcher : MonoBehaviourPunCallbacks
 
         #region Private Serializable Fields
 
-        public InputField roomName;
+        public String roomName;
+        private int roomNum;
         //public InputField playerName;
 		public TextMeshProUGUI playerName;
 
@@ -73,30 +74,29 @@ public class Launcher : MonoBehaviourPunCallbacks
 
 		}
 
-		#endregion
+    #endregion
 
 
-		#region Public Methods
+    #region Public Methods
 
-		/// <summary>
-		/// Start the connection process. 
-		/// - If already connected, we attempt joining a random room
-		/// - if not yet connected, Connect this application instance to Photon Cloud Network
-		/// </summary>
-		public void Connect()
+    /// <summary>
+    /// Start the connection process. 
+    /// - If already connected, we attempt joining a random room
+    /// - if not yet connected, Connect this application instance to Photon Cloud Network
+    /// </summary>
+        public void Connect(int number)  // roomNum 0 -> 101강의실, roomNum 1 -> office 강의실로 연결됩니다.
 		{
+            roomNum = number;
+            roomName = name;
 			// keep track of the will to join a room, because when we come back from the game we will get a callback that we are connected, so we need to know what to do then
 			isConnecting = true;
-
-			// hide the Play button for visual consistency
-			controlPanel.SetActive(false);
 
 			// we check if we are connected or not, we join if we are , else we initiate the connection to the server.
 			if (PhotonNetwork.IsConnected)
 			{
                 Debug.Log("isConnected");
 				// #Critical we need at this point to attempt joining a Random Room. If it fails, we'll get notified in OnJoinRandomFailed() and we'll create one.
-				PhotonNetwork.JoinRoom(roomName.text);
+				PhotonNetwork.JoinRoom(roomName);
                 // UI_record 표시
                 UI_record.SetActive(true);
 			}else{
@@ -128,8 +128,8 @@ public class Launcher : MonoBehaviourPunCallbacks
 				Debug.Log("Connected to Master");
 
                 // #Critical: The first we try to do is to join a potential existing room. If there is, good, else, we'll be called back with OnJoinRandomFailed()
-                Debug.Log(roomName.text);
-                bool boo = PhotonNetwork.JoinRoom(roomName.text);
+                Debug.Log(roomName);
+                bool boo = PhotonNetwork.JoinRoom(roomName);
                 Debug.Log(boo);
 			}
 		}
@@ -145,7 +145,7 @@ public class Launcher : MonoBehaviourPunCallbacks
 			Debug.Log("create new room");
 
 			// #Critical: we failed to join a random room, maybe none exists or they are all full. No worries, we create a new room.
-			PhotonNetwork.CreateRoom(roomName.text);
+			PhotonNetwork.CreateRoom(roomName);
 		}
 
 
@@ -182,15 +182,17 @@ public class Launcher : MonoBehaviourPunCallbacks
 			
 		}
 
-        public void setRoomName(String name)
-        {
-            roomName.text = name;
-        }
-
         private void CreatePlayer()
         {
-            Vector3 initLocation = new Vector3(43, 0, -27);
-        player.transform.position = initLocation;
+            if (roomNum == 0)       // 101 강의실 입장
+            {
+                player.transform.position = new Vector3(43, 0, -27);
+            }
+           
+            else if (roomNum == 1)  // office 입장
+            {
+                player.transform.position = new Vector3(-2, 7.5f, -23);
+            }
 
             int randomPrefab = UnityEngine.Random.Range(0, playerPrefabs.Length);
             
@@ -204,19 +206,10 @@ public class Launcher : MonoBehaviourPunCallbacks
             }
             VRCamera.transform.localPosition = new Vector3(0,1,0);
 
-            if (PhotonNetwork.IsConnected && newplayer.GetPhotonView().IsMine)
-            {
-                //Camera.main.transform.SetParent(newplayer.transform);
-                //newplayer.AddComponent<Player_control>();
-				//newplayer.AddComponent<VR_control>();
-            }
-
             newplayer.name = playerName.text;
             PhotonNetwork.NickName = playerName.text;
             player.GetComponent<Rigidbody>().isKinematic = false;
             newplayer.AddComponent<BoxCollider>();
-            //newplayer.AddComponent<Rigidbody>();
-            //newplayer.GetComponent<Rigidbody>().isKinematic = false;
 
             BoxCollider collider = newplayer.GetComponent<BoxCollider>();
             collider.center = new Vector3(0, 8, 0);
@@ -224,6 +217,11 @@ public class Launcher : MonoBehaviourPunCallbacks
 
             Destroy(oldplayer);
             oldplayer = newplayer;
+        }
+
+        public void setRoomName (String name)
+        {
+            roomName = name;
         }
         #endregion 
     }

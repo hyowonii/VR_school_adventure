@@ -9,13 +9,12 @@ namespace Photon.Pun.Demo.PunBasics
 {
     public class UI_Popup : MonoBehaviour
     {
-        public GameObject UI;
-        public InputField roomName;
+        private GameObject UI;
+        private InputField roomName;
 
         // Start is called before the first frame update
         void Start()
         {
-
         }
 
         // Update is called once per frame
@@ -26,12 +25,15 @@ namespace Photon.Pun.Demo.PunBasics
 
         void OnTriggerEnter()
         {
+            Debug.Log("start");
+
+            UI = gameObject.transform.GetChild(0).gameObject;
             UI.SetActive(true);
 
-            Debug.Log(roomName.text);
+            Debug.Log(UI);
+
+            roomName = gameObject.transform.Find("UI_JoinRoom/UI controls/Room InputField").GetComponent<InputField>();
             roomName.text = gameObject.name;
-            Debug.Log(gameObject.name);
-            Debug.Log(roomName.text);
             
             //Time.timeScale = 0;
             //PhotonNetwork.MinimalTimeScaleToDispatchInFixedUpdate = 0;
