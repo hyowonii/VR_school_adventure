@@ -40,6 +40,7 @@ public class Launcher : MonoBehaviourPunCallbacks
 	    public GameObject controlPanel;
         public GameObject[] playerPrefabs;
         public GameObject VRCamera;
+        public GameObject UI_record;
 		
 
         #endregion
