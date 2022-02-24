@@ -6,8 +6,8 @@ using UnityEngine;
 public class GameManager : MonoBehaviourPunCallbacks
 {
     public GameObject[] playerPrefabs;
-    private GameObject player;
-    public GameObject camera;
+    public GameObject player;
+    private GameObject me;
 
     void Start()
     {
@@ -25,15 +25,12 @@ public class GameManager : MonoBehaviourPunCallbacks
 
     public void Disconnect()
     {
-        player = GameObject.CreatePrimitive(PrimitiveType.Cube);
+        me = GameObject.CreatePrimitive(PrimitiveType.Cube);
+        me.transform.localScale = new Vector3(0.2f, 1.5f, 0.2f);
+        me.transform.SetParent(player.transform);
+
         player.transform.position = new Vector3(38, 1, -27);
-        player.transform.localScale = new Vector3(0.2f, 1.5f, 0.2f);
-
-        player.AddComponent<Rigidbody>();
-        player.GetComponent<Rigidbody>().isKinematic = true;
-
-        Camera.main.transform.SetParent(player.transform);
-        player.AddComponent<Player_control>();
+        me.transform.localPosition = new Vector3(0, 0, 0);
 
         PhotonNetwork.Disconnect();
 
