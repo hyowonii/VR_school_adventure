@@ -39,7 +39,7 @@ public class Launcher : MonoBehaviourPunCallbacks
     public GameObject controlPanel;
     public GameObject[] playerPrefabs;
     public GameObject VRCamera;
-    public GameObject UI_record;
+    public GameObject recordUI;
 
 
     #endregion
@@ -88,6 +88,9 @@ public class Launcher : MonoBehaviourPunCallbacks
         // keep track of the will to join a room, because when we come back from the game we will get a callback that we are connected, so we need to know what to do then
         isConnecting = true;
 
+        // UI_record 표시
+        recordUI.SetActive(true);
+
         // we check if we are connected or not, we join if we are , else we initiate the connection to the server.
         if (PhotonNetwork.IsConnected)
         {
@@ -95,8 +98,7 @@ public class Launcher : MonoBehaviourPunCallbacks
             // #Critical we need at this point to attempt joining a Random Room. If it fails, we'll get notified in OnJoinRandomFailed() and we'll create one.
 
             PhotonNetwork.JoinRoom(roomName.text);
-            // UI_record 표시
-            UI_record.SetActive(true);
+            
         }
         else
         {
