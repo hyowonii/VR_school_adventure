@@ -202,7 +202,7 @@ public class Launcher : MonoBehaviourPunCallbacks
 
         newplayer = PhotonNetwork.Instantiate(playerPrefabs[randomPrefab].name, player.transform.position, Quaternion.identity, 0);
         newplayer.transform.SetParent(player.transform);
-        newplayer.transform.localScale -= new Vector3(0.9f, 0.9f, 0.9f);
+        newplayer.transform.localEulerAngles = new Vector3(0, 0, 0);
         newplayer.layer = 3;
         foreach (Transform child in newplayer.transform)
         {
@@ -210,14 +210,16 @@ public class Launcher : MonoBehaviourPunCallbacks
         }
         VRCamera.transform.localPosition = new Vector3(0, 1, 0);
 
+        player.transform.eulerAngles = new Vector3(0, 0, 0);
+
         newplayer.name = playerName.text;
         PhotonNetwork.NickName = playerName.text;
         player.GetComponent<Rigidbody>().isKinematic = false;
         newplayer.AddComponent<BoxCollider>();
 
         BoxCollider collider = newplayer.GetComponent<BoxCollider>();
-        collider.center = new Vector3(0, 8, 0);
-        collider.size = new Vector3(8, 20, 8);
+        collider.center = new Vector3(0, 1, 0);
+        collider.size = new Vector3(1, 2, 1);
 
         Destroy(oldplayer);
     }

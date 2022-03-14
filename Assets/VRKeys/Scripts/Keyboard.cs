@@ -71,7 +71,9 @@ namespace VRKeys {
 		[Space (15)]
 		public GameObject canvas;
 
-		public GameObject leftMallet;
+        public GameObject VRhand;
+
+        public GameObject leftMallet;
 
 		public GameObject rightMallet;
 
@@ -140,6 +142,7 @@ namespace VRKeys {
 			playerSpace.transform.localPosition = Vector3.zero;
 
 			leftHand = new GameObject ("Left Hand");
+            leftHand.transform.SetParent(VRhand.transform);
 			rightHand = new GameObject ("Right Hand");
 
 			yield return StartCoroutine (DoSetLanguage (keyboardLayout));

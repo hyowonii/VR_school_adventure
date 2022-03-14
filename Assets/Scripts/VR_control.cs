@@ -19,7 +19,6 @@ public class VR_control : MonoBehaviour
 
     public Vector3 dir;
     public GameObject VRCamera;
-    public GameObject myPlayer;
     public PhotonView photonView;
 
     // Start is called before the first frame update
@@ -42,7 +41,9 @@ public class VR_control : MonoBehaviour
         if (OVRManager.isHmdPresent)
         {
             stickInput = OVRInput.Get(OVRInput.Axis2D.PrimaryThumbstick);
-            dir = new Vector3(stickInput.x, 0, stickInput.y);
+            dir = new Vector3(stickInput.x * VRCamera.transform.rotation.x, 0, stickInput.y * VRCamera.transform.rotation.z);
+
+            gameObject.transform.GetChild(1).transform.rotation = VRCamera.transform.rotation;
         }
 
         else
@@ -73,10 +74,5 @@ public class VR_control : MonoBehaviour
         dir.Normalize();
 
         gameObject.transform.Translate(dir * speed * Time.deltaTime);
-    }
-
-    public void setPlayer(GameObject player)
-    {
-        myPlayer = player;
     }
 }

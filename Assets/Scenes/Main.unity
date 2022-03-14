@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -28058,7 +28058,6 @@ MonoBehaviour:
   rotSpeed: 500
   dir: {x: 0, y: 0, z: 0}
   VRCamera: {fileID: 450318893}
-  myPlayer: {fileID: 0}
   photonView: {fileID: 0}
 --- !u!54 &1302526471
 Rigidbody:
@@ -29491,6 +29490,11 @@ Transform:
   m_Father: {fileID: 758878378}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1361914419 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 109308, guid: 126d619cf4daa52469682f85c1378b4a, type: 3}
+  m_PrefabInstance: {fileID: 1397004127}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1362010525
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -44232,6 +44236,24 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1998209704}
   m_Mesh: {fileID: 6897166960308541686, guid: 9ce11c4946b929f41a0f7bd32673e5a7, type: 3}
+--- !u!1 &1999396168 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 7e20d29a3b698c840ad712fef868fe70, type: 3}
+  m_PrefabInstance: {fileID: 1673429288}
+  m_PrefabAsset: {fileID: 0}
+--- !u!135 &1999396170
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1999396168}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 623.40894
+  m_Center: {x: 15.167555, y: 0, z: 3.1261444}
 --- !u!1 &2005262075
 GameObject:
   m_ObjectHideFlags: 0
@@ -51044,6 +51066,7 @@ MonoBehaviour:
   keyHeight: 0.16
   text: 
   canvas: {fileID: 1000011192460649}
+  VRhand: {fileID: 1361914419}
   leftMallet: {fileID: 1000012644523443}
   rightMallet: {fileID: 1000011642840685}
   keyboardWrapper: {fileID: 1000011727507725}
