@@ -30,7 +30,7 @@ public class VR_control : MonoBehaviour
 
         if (PhotonNetwork.IsConnected)
         {
-            photonView = PhotonView.Get(this);
+            photonView = PhotonView.Get(gameObject.transform.GetChild(1));
             VRCamera.transform.localPosition = new Vector3(0, 1 / scale, 0);
         }
     }

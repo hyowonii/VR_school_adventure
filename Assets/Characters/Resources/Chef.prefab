@@ -41,8 +41,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4000011926840198}
   - component: {fileID: 95000011518975836}
-  - component: {fileID: -3991111394469144050}
-  - component: {fileID: 4173028358428877490}
+  - component: {fileID: 5805553786006337466}
+  - component: {fileID: 2905725205688407040}
   m_Layer: 0
   m_Name: Chef
   m_TagString: Untagged
@@ -91,7 +91,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &-3991111394469144050
+--- !u!114 &5805553786006337466
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -110,11 +110,11 @@ MonoBehaviour:
   OwnershipTransfer: 0
   observableSearch: 2
   ObservedComponents:
-  - {fileID: 4173028358428877490}
+  - {fileID: 2905725205688407040}
   sceneViewId: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
---- !u!114 &4173028358428877490
+--- !u!114 &2905725205688407040
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -129,7 +129,7 @@ MonoBehaviour:
   m_SynchronizePosition: 1
   m_SynchronizeRotation: 1
   m_SynchronizeScale: 1
-  m_UseLocal: 1
+  m_UseLocal: 0
 --- !u!1 &1000010465003268
 GameObject:
   m_ObjectHideFlags: 0

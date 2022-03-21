@@ -710,8 +710,8 @@ GameObject:
   m_Component:
   - component: {fileID: 4000013780465766}
   - component: {fileID: 95000010321602998}
-  - component: {fileID: -340937883832539195}
-  - component: {fileID: 2650558745050525308}
+  - component: {fileID: 754930414983223599}
+  - component: {fileID: 2861812916343642096}
   m_Layer: 0
   m_Name: Crusader
   m_TagString: Untagged
@@ -758,7 +758,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &-340937883832539195
+--- !u!114 &754930414983223599
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -777,11 +777,11 @@ MonoBehaviour:
   OwnershipTransfer: 0
   observableSearch: 2
   ObservedComponents:
-  - {fileID: 2650558745050525308}
+  - {fileID: 2861812916343642096}
   sceneViewId: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
---- !u!114 &2650558745050525308
+--- !u!114 &2861812916343642096
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -796,7 +796,7 @@ MonoBehaviour:
   m_SynchronizePosition: 1
   m_SynchronizeRotation: 1
   m_SynchronizeScale: 1
-  m_UseLocal: 1
+  m_UseLocal: 0
 --- !u!1 &1036462199316603165
 GameObject:
   m_ObjectHideFlags: 0

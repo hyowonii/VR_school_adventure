@@ -796,7 +796,7 @@ MonoBehaviour:
   m_SynchronizePosition: 1
   m_SynchronizeRotation: 1
   m_SynchronizeScale: 1
-  m_UseLocal: 1
+  m_UseLocal: 0
 --- !u!1 &4669214253256535426
 GameObject:
   m_ObjectHideFlags: 0

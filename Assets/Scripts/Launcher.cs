@@ -213,6 +213,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         player.transform.eulerAngles = new Vector3(0, 0, 0);
 
         newplayer.name = playerName.text;
+        newplayer.transform.GetChild(0).GetComponent<TextMeshPro>().text = playerName.text;
         PhotonNetwork.NickName = playerName.text;
         player.GetComponent<Rigidbody>().isKinematic = false;
         newplayer.AddComponent<BoxCollider>();
