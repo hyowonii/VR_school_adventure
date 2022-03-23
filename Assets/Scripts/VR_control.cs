@@ -6,7 +6,7 @@ using Photon.Pun;
 
 public class VR_control : MonoBehaviour
 {
-    public float speed = 5;
+    public float speed = 2;
     public float rotSpeed = 500;
 
     private Vector2 stickInput;
@@ -19,6 +19,7 @@ public class VR_control : MonoBehaviour
 
     public Vector3 dir;
     public GameObject VRCamera;
+    public GameObject VREyes;
     public PhotonView photonView;
 
     // Start is called before the first frame update
@@ -40,10 +41,10 @@ public class VR_control : MonoBehaviour
     {
         if (OVRManager.isHmdPresent)
         {
-            stickInput = OVRInput.Get(OVRInput.Axis2D.PrimaryThumbstick);
-            dir = new Vector3(stickInput.x * VRCamera.transform.rotation.x, 0, stickInput.y * VRCamera.transform.rotation.z);
+            gameObject.transform.GetChild(1).transform.eulerAngles = new Vector3(0, VREyes.transform.eulerAngles.y, 0);
 
-            gameObject.transform.GetChild(1).transform.rotation = VRCamera.transform.rotation;
+            stickInput = OVRInput.Get(OVRInput.Axis2D.PrimaryThumbstick);
+            dir = new Vector3(stickInput.x * VREyes.transform.rotation.x, 0, stickInput.y * VREyes.transform.rotation.z);
         }
 
         else
