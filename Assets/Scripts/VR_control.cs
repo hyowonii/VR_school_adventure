@@ -45,7 +45,6 @@ public class VR_control : MonoBehaviour
 
             stickInput = OVRInput.Get(OVRInput.Axis2D.PrimaryThumbstick);
             
-            
             dir = VREyes.transform.forward * stickInput.y + VREyes.transform.right * stickInput.x;
             dir.Normalize();
 
