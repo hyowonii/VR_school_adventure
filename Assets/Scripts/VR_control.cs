@@ -6,7 +6,7 @@ using Photon.Pun;
 
 public class VR_control : MonoBehaviour
 {
-    public float speed = 5;
+    public float speed = 2;
     public float rotSpeed = 500;
 
     private Vector2 stickInput;
@@ -19,6 +19,7 @@ public class VR_control : MonoBehaviour
 
     public Vector3 dir;
     public GameObject VRCamera;
+    public GameObject VREyes;
     public PhotonView photonView;
 
     // Start is called before the first frame update
@@ -40,17 +41,22 @@ public class VR_control : MonoBehaviour
     {
         if (OVRManager.isHmdPresent)
         {
+            gameObject.transform.GetChild(1).transform.eulerAngles = new Vector3(0, VREyes.transform.eulerAngles.y, 0);
+
             stickInput = OVRInput.Get(OVRInput.Axis2D.PrimaryThumbstick);
-            dir = new Vector3(stickInput.x * VRCamera.transform.rotation.x, 0, stickInput.y * VRCamera.transform.rotation.z);
+            
+            
+            dir = VREyes.transform.forward * stickInput.y + VREyes.transform.right * stickInput.x;
+            dir.Normalize();
 
-            gameObject.transform.GetChild(1).transform.rotation = VRCamera.transform.rotation;
+            gameObject.transform.Translate(dir * speed * Time.deltaTime, Space.World); 
         }
-
+    
         else
         {
-            stickInputX = Input.GetAxis("Horizontal");
-            stickInputY = Input.GetAxis("Vertical");
-            dir = new Vector3(stickInputX, 0, stickInputY);
+              stickInputX = Input.GetAxis("Horizontal");
+              stickInputY = Input.GetAxis("Vertical");
+              dir = new Vector3(stickInputX, 0, stickInputY);
 
             if (Input.GetJoystickNames().Length > 1)
             {
@@ -69,10 +75,9 @@ public class VR_control : MonoBehaviour
             rx = Mathf.Clamp(rx, -40, 40);
             transform.rotation = Quaternion.Euler(0, ry, 0);
             VRCamera.transform.localRotation = Quaternion.Euler(-rx, 0, 0);
-        }
-    
-        dir.Normalize();
 
-        gameObject.transform.Translate(dir * speed * Time.deltaTime);
+            dir.Normalize();
+            gameObject.transform.Translate(dir * speed * Time.deltaTime);
+        }
     }
 }
