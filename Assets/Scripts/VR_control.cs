@@ -44,14 +44,18 @@ public class VR_control : MonoBehaviour
             gameObject.transform.GetChild(1).transform.eulerAngles = new Vector3(0, VREyes.transform.eulerAngles.y, 0);
 
             stickInput = OVRInput.Get(OVRInput.Axis2D.PrimaryThumbstick);
-            dir = new Vector3(stickInput.x * VREyes.transform.rotation.x, 0, stickInput.y * VREyes.transform.rotation.z);
-        }
+            
+            dir = VREyes.transform.forward * stickInput.y + VREyes.transform.right * stickInput.x;
+            dir.Normalize();
 
+            gameObject.transform.Translate(dir * speed * Time.deltaTime, Space.World); 
+        }
+    
         else
         {
-            stickInputX = Input.GetAxis("Horizontal");
-            stickInputY = Input.GetAxis("Vertical");
-            dir = new Vector3(stickInputX, 0, stickInputY);
+              stickInputX = Input.GetAxis("Horizontal");
+              stickInputY = Input.GetAxis("Vertical");
+              dir = new Vector3(stickInputX, 0, stickInputY);
 
             if (Input.GetJoystickNames().Length > 1)
             {
@@ -70,10 +74,9 @@ public class VR_control : MonoBehaviour
             rx = Mathf.Clamp(rx, -40, 40);
             transform.rotation = Quaternion.Euler(0, ry, 0);
             VRCamera.transform.localRotation = Quaternion.Euler(-rx, 0, 0);
-        }
-    
-        dir.Normalize();
 
-        gameObject.transform.Translate(dir * speed * Time.deltaTime);
+            dir.Normalize();
+            gameObject.transform.Translate(dir * speed * Time.deltaTime);
+        }
     }
 }

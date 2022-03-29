@@ -222,6 +222,8 @@ public class Launcher : MonoBehaviourPunCallbacks
         collider.center = new Vector3(0, 1, 0);
         collider.size = new Vector3(1, 2, 1);
 
+        
+
         Destroy(oldplayer);
     }
 #endregion

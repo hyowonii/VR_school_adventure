@@ -174,7 +174,7 @@ namespace VRKeys {
 			transform.localRotation = Quaternion.Euler(0f, 90f, 0f);
 			transform.localScale = new Vector3(0.4f, 0.4f, 0.4f);
 
-			leftMallet.transform.SetParent (leftHand.transform);
+			leftMallet.transform.SetParent (VRhand.transform);
 			leftMallet.transform.localPosition = Vector3.zero;
 			leftMallet.transform.localRotation = Quaternion.Euler (90f, 0f, 0f);
 			leftMallet.SetActive (true);
