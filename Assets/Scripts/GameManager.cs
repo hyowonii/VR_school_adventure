@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     public void Disconnect()
     {
         me = GameObject.CreatePrimitive(PrimitiveType.Cube);
-        me.transform.localScale = new Vector3(0.2f, 1.5f, 0.2f);
+        me.transform.localScale = new Vector3(0.2f, 0.8f, 0.2f);
         me.transform.SetParent(player.transform);
 
         player.transform.position = new Vector3(38, 1, -27);
