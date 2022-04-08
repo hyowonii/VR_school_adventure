@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -19764,43 +19764,6 @@ MonoBehaviour:
   playerPrefabs:
   - {fileID: 1000013581079056, guid: c73539890348915498045f5cd9b84838, type: 3}
   - {fileID: 1000012031303842, guid: 8c58af9c359af10458ec99511f7b371d, type: 3}
-  - {fileID: 1000010080880204, guid: 14368bd050a7f9f41ad36ad0714d2e55, type: 3}
-  - {fileID: 1000013370878110, guid: 3fc437f7843826b4cac9240e7f3e97d8, type: 3}
-  - {fileID: 1000010447398366, guid: 9465bec6252f65e49bf8cbbddf88aec8, type: 3}
-  - {fileID: 1000013086343792, guid: 7327065aa3f49944d9f18edf9256024c, type: 3}
-  - {fileID: 1000014000518406, guid: 584a6d168825f4a448c6af03209d50ee, type: 3}
-  - {fileID: 1000013384889458, guid: 2fa25dafe40a7c14fa7078ff2026b332, type: 3}
-  - {fileID: 1000013570044720, guid: 87995d2f43a88e047a0db4310f347d61, type: 3}
-  - {fileID: 1000013697295654, guid: de0d59d93e2cfe543b798cd56fd59da4, type: 3}
-  - {fileID: 1000010264933332, guid: 1ae974dff7f144e469ed6a441d963c69, type: 3}
-  - {fileID: 1000011456922980, guid: 6ca18d5e6a7102b4294aae299036fce0, type: 3}
-  - {fileID: 1000013435347056, guid: 11a66e0e06ad0c241832faf88daf7272, type: 3}
-  - {fileID: 1000011835032326, guid: 7b83dbf021467fe46987f5025a6c2eed, type: 3}
-  - {fileID: 1000012699829190, guid: 4e80749c78f61144483e8ba93c5e9f69, type: 3}
-  - {fileID: 1000012673014662, guid: 8188d74a4c0cbfb4ab05781bacda8dc4, type: 3}
-  - {fileID: 1000013601016658, guid: 45f2386ce67e6954db37fa2219e36f0c, type: 3}
-  - {fileID: 1000010905284148, guid: 4601a7a32ca0706429c6494df42a0da3, type: 3}
-  - {fileID: 1000013383135882, guid: 6ad986ce7e21b174ba2e1e34497b7762, type: 3}
-  - {fileID: 1000010181255170, guid: 976aa8a7b1017304097fa93121ee42f2, type: 3}
-  - {fileID: 1000012248948448, guid: 416704f0bde95554695c5785f15a01ff, type: 3}
-  - {fileID: 1000014191048202, guid: dd35890ddca298445b08fd8919a4655a, type: 3}
-  - {fileID: 1000014175084472, guid: ac0210fc0a452fd41a347ec725393bc7, type: 3}
-  - {fileID: 1000014274055988, guid: 224a5f2bff9277b49a89ec30f6376532, type: 3}
-  - {fileID: 1000013443838794, guid: 1d369ac37f65b2847886afbde5c64d9c, type: 3}
-  - {fileID: 1000013990905646, guid: a01cea9062ee5ae4cb9587ea2f331194, type: 3}
-  - {fileID: 1000011946946542, guid: 7686fd776c8cf734dae67a964c214d82, type: 3}
-  - {fileID: 1000014179512556, guid: f8394447b9dcb5b45bf40e9e41f7c74a, type: 3}
-  - {fileID: 1000010071180578, guid: 7e4f73da68946f44da597f8018a34863, type: 3}
-  - {fileID: 1000012865967088, guid: 65ed9eeb6a4a32d4789f1208a944fef4, type: 3}
-  - {fileID: 1000012691864312, guid: e99667787bb0cce4b957da18fb04ffc3, type: 3}
-  - {fileID: 1000014051946154, guid: cfa7bd7f18a88784cbeba120b8cad2df, type: 3}
-  - {fileID: 1000010675938078, guid: 603995affef895b4a89e76dc03c7e9f3, type: 3}
-  - {fileID: 1000013409309084, guid: 4727d196f51509b4aaf256e5123234ac, type: 3}
-  - {fileID: 1000011247278240, guid: a7a2413e370a3904a93a10952929cf53, type: 3}
-  - {fileID: 1000010088013638, guid: 27295b0f9327bb541881a2701de83541, type: 3}
-  - {fileID: 1000010902234904, guid: 94a9365da0c631f4581925eb2b887de2, type: 3}
-  - {fileID: 1000012427598128, guid: 431cba8aa3577cb40b0b4b06059d961c, type: 3}
-  - {fileID: 1000011579577586, guid: 3122fb798fb42ef4f876c7f2ab564680, type: 3}
   VRCamera: {fileID: 450318893}
   recordUI: {fileID: 1589585718}
 --- !u!4 &828841322
@@ -32455,15 +32418,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1302526468}
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 38.42, y: 1.379, z: -27.435}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 16.29, y: 1.379, z: -11.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1574439239}
   - {fileID: 357402129}
   m_Father: {fileID: 0}
   m_RootOrder: 12
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1302526470
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -177,6 +177,8 @@ public class Launcher : MonoBehaviourPunCallbacks
     {
         Debug.Log("joined room");
 
+        
+        
         CreatePlayer();
         Time.timeScale = 1;
 
