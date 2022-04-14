@@ -16,6 +16,8 @@ public class VR_control : MonoBehaviour
     private float ry;
     private float mx;
     private float my;
+    public Animator animator;
+    private Rigidbody rigidbody;
 
     public Vector3 dir;
     public GameObject VRCamera;
@@ -34,17 +36,34 @@ public class VR_control : MonoBehaviour
             photonView = PhotonView.Get(gameObject.transform.GetChild(1));
             VRCamera.transform.localPosition = new Vector3(0, 1 / scale, 0);
         }
+
+        FindComponents();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (animator == null)
+        {
+            animator = gameObject.transform.GetChild(1).GetChild(0).GetComponent<Animator>();
+        }
+
         if (OVRManager.isHmdPresent)
         {
             gameObject.transform.GetChild(1).transform.eulerAngles = new Vector3(0, VREyes.transform.eulerAngles.y, 0);
 
             stickInput = OVRInput.Get(OVRInput.Axis2D.PrimaryThumbstick);
-            
+
+            if (stickInput != Vector2.zero)
+            {
+                animator.SetInteger("actionID", 2);
+            }
+
+            else
+            {
+                animator.SetInteger("actionID", 1);
+            }
+
             dir = VREyes.transform.forward * stickInput.y + VREyes.transform.right * stickInput.x;
             dir.Normalize();
 
@@ -56,6 +75,16 @@ public class VR_control : MonoBehaviour
               stickInputX = Input.GetAxis("Horizontal");
               stickInputY = Input.GetAxis("Vertical");
               dir = new Vector3(stickInputX, 0, stickInputY);
+
+            if (stickInputX != 0 || stickInputY != 0)
+            {
+                animator.SetInteger("actionID", 2);
+            }
+
+            else
+            {
+                animator.SetInteger("actionID", 1);
+            }
 
             if (Input.GetJoystickNames().Length > 1)
             {
@@ -78,5 +107,10 @@ public class VR_control : MonoBehaviour
             dir.Normalize();
             gameObject.transform.Translate(dir * speed * Time.deltaTime);
         }
+    }
+
+    public void FindComponents()
+    {
+        rigidbody = gameObject.GetComponent<Rigidbody>();
     }
 }

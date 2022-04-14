@@ -192,7 +192,7 @@ public class Launcher : MonoBehaviourPunCallbacks
 
         if (roomName.tag == "0")       // 101 강의실 입장
         {
-            player.transform.position = new Vector3(43, 0, -27);
+            player.transform.position = new Vector3(43, 0.8f, -27);
         }
 
         else if (roomName.tag == "1")  // office 입장
@@ -203,6 +203,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         int randomPrefab = UnityEngine.Random.Range(0, playerPrefabs.Length);
 
         newplayer = PhotonNetwork.Instantiate(playerPrefabs[randomPrefab].name, player.transform.position, Quaternion.identity, 0);
+        newplayer.transform.localScale = new Vector3(0.25f, 0.25f, 0.25f);
         newplayer.transform.SetParent(player.transform);
         newplayer.transform.localEulerAngles = new Vector3(0, 0, 0);
         newplayer.layer = 3;
@@ -216,16 +217,9 @@ public class Launcher : MonoBehaviourPunCallbacks
 
         newplayer.name = playerName.text;
         PhotonNetwork.NickName = playerName.text;
-        newplayer.transform.GetChild(0).GetComponent<TextMeshPro>().text = PhotonNetwork.NickName;
-        
+        newplayer.transform.GetChild(1).GetComponent<TextMeshPro>().text = PhotonNetwork.NickName;
+
         player.GetComponent<Rigidbody>().isKinematic = false;
-        newplayer.AddComponent<BoxCollider>();
-
-        BoxCollider collider = newplayer.GetComponent<BoxCollider>();
-        collider.center = new Vector3(0, 1, 0);
-        collider.size = new Vector3(1, 2, 1);
-
-        
 
         Destroy(oldplayer);
     }
