@@ -130,9 +130,7 @@ public class Launcher : MonoBehaviourPunCallbacks
             Debug.Log("Connected to Master");
 
             // #Critical: The first we try to do is to join a potential existing room. If there is, good, else, we'll be called back with OnJoinRandomFailed()
-            Debug.Log(roomName.text);
-            bool boo = PhotonNetwork.JoinRoom(roomName.text);
-            Debug.Log(boo);
+            PhotonNetwork.JoinRoom(roomName.text);
         }
     }
 
