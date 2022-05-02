@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Photon.Realtime;
 using Photon.Pun;
+using TMPro;
 
 public class VR_control : MonoBehaviour
 {
@@ -17,7 +18,6 @@ public class VR_control : MonoBehaviour
     private float mx;
     private float my;
     public Animator animator;
-    private Rigidbody rigidbody;
 
     public Vector3 dir;
     public GameObject VRCamera;
@@ -36,13 +36,13 @@ public class VR_control : MonoBehaviour
             photonView = PhotonView.Get(gameObject.transform.GetChild(1));
             VRCamera.transform.localPosition = new Vector3(0, 1 / scale, 0);
         }
-
-        FindComponents();
     }
 
     // Update is called once per frame
     void Update()
     {
+        photonView.RPC("setName", RpcTarget.All);
+
         if (animator == null)
         {
             animator = gameObject.transform.GetChild(1).GetChild(0).GetComponent<Animator>();
@@ -109,8 +109,11 @@ public class VR_control : MonoBehaviour
         }
     }
 
-    public void FindComponents()
+    [PunRPC]
+    void setName()
     {
-        rigidbody = gameObject.GetComponent<Rigidbody>();
+        TextMeshPro nametag = gameObject.transform.GetChild(1).GetComponent<TextMeshPro>();
+        nametag.text = gameObject.name;
     }
+
 }

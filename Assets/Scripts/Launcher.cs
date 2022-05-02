@@ -70,6 +70,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         // #Critical
         // this makes sure we can use PhotonNetwork.LoadLevel() on the master client and all clients in the same room sync their level automatically
         PhotonNetwork.AutomaticallySyncScene = true;
+        Connect();
 
     }
 
@@ -85,20 +86,32 @@ public class Launcher : MonoBehaviourPunCallbacks
     /// </summary>
     public void Connect()
     {
-        // keep track of the will to join a room, because when we come back from the game we will get a callback that we are connected, so we need to know what to do then
+        if (PhotonNetwork.CurrentRoom != null)                     // 현재 room에 참여하고 있는 상태라면 leave
+        {     
+            LeaveRoom();
+        }
+            
         isConnecting = true;
 
         // UI_record 표시
-        recordUI.SetActive(true);
-
+        if (recordUI)
+        {
+            recordUI.SetActive(true);
+        }
         // we check if we are connected or not, we join if we are , else we initiate the connection to the server.
         if (PhotonNetwork.IsConnected)
         {
             Debug.Log("isConnected");
             // #Critical we need at this point to attempt joining a Random Room. If it fails, we'll get notified in OnJoinRandomFailed() and we'll create one.
+            if (roomName)                                       // roomName이 있을 경우(회의실 입장) 
+            {
+                PhotonNetwork.JoinRoom(roomName.text);
+            }
 
-            PhotonNetwork.JoinRoom(roomName.text);
-            
+            else                                                // roomName이 없을 경우(맨처음 로비 입장)  
+            {
+                PhotonNetwork.JoinRoom("lobby");
+            }
         }
         else
         {
@@ -130,7 +143,15 @@ public class Launcher : MonoBehaviourPunCallbacks
             Debug.Log("Connected to Master");
 
             // #Critical: The first we try to do is to join a potential existing room. If there is, good, else, we'll be called back with OnJoinRandomFailed()
-            PhotonNetwork.JoinRoom(roomName.text);
+            if (roomName && roomName.tag != "Untagged")                                        // roomName이 있을 경우(회의실 입장) 
+            {
+                PhotonNetwork.JoinRoom(roomName.text);
+            }
+
+            else                                                // roomName이 없을 경우(맨처음 로비 입장)  
+            {
+                PhotonNetwork.JoinRoom("lobby");
+            }
         }
     }
 
@@ -145,7 +166,15 @@ public class Launcher : MonoBehaviourPunCallbacks
         Debug.Log("create new room");
 
         // #Critical: we failed to join a random room, maybe none exists or they are all full. No worries, we create a new room.
-        PhotonNetwork.CreateRoom(roomName.text);
+        if (roomName)                                       // roomName이 있을 경우(회의실 입장) 
+        {
+            PhotonNetwork.CreateRoom(roomName.text, new RoomOptions() { CleanupCacheOnLeave = false });
+        }
+
+        else                                                // roomName이 없을 경우(맨처음 로비 입장)  
+        {
+            PhotonNetwork.CreateRoom("lobby", new RoomOptions() { CleanupCacheOnLeave = false });
+        }
     }
 
 
@@ -173,20 +202,21 @@ public class Launcher : MonoBehaviourPunCallbacks
     /// </remarks>
     public override void OnJoinedRoom()
     {
-        Debug.Log("joined room");
-
-        
-        
         CreatePlayer();
-        Time.timeScale = 1;
+        roomName.tag = "Untagged";
 
-        Debug.Log(PhotonNetwork.CurrentRoom.PlayerCount);
+        Time.timeScale = 1;
 
     }
 
     private void CreatePlayer()
     {
         oldplayer = player.transform.GetChild(1).gameObject;
+
+        if (!roomName || roomName.tag == "Untagged") // 로비 입장
+        {
+            player.transform.position = new Vector3(17, 1.3f, -11);
+        }
 
         if (roomName.tag == "0")       // 101 강의실 입장
         {
@@ -205,21 +235,35 @@ public class Launcher : MonoBehaviourPunCallbacks
         newplayer.transform.SetParent(player.transform);
         newplayer.transform.localEulerAngles = new Vector3(0, 0, 0);
         newplayer.layer = 3;
+
         foreach (Transform child in newplayer.transform)
         {
             child.gameObject.layer = 3;
         }
         VRCamera.transform.localPosition = new Vector3(0, 1, 0);
-
         player.transform.eulerAngles = new Vector3(0, 0, 0);
 
         newplayer.name = playerName.text;
-        PhotonNetwork.NickName = playerName.text;
-        newplayer.transform.GetChild(1).GetComponent<TextMeshPro>().text = PhotonNetwork.NickName;
 
         player.GetComponent<Rigidbody>().isKinematic = false;
 
         Destroy(oldplayer);
+    }
+
+    public void LeaveRoom()
+    {
+        GameObject me = GameObject.CreatePrimitive(PrimitiveType.Cube);
+        me.transform.localScale = new Vector3(0.2f, 0.5f, 0.2f);
+        me.transform.SetParent(player.transform);
+
+
+        PhotonNetwork.LeaveRoom();
+        
+    }
+
+    public void OnDisconnected()
+    {
+        Connect();
     }
 #endregion
 }
