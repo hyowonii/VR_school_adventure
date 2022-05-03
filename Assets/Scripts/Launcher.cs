@@ -231,10 +231,11 @@ public class Launcher : MonoBehaviourPunCallbacks
         newplayer.transform.localEulerAngles = new Vector3(0, 0, 0);
         newplayer.layer = 3;
 
-        foreach (Transform child in newplayer.transform)
+        foreach (Transform child in newplayer.transform.GetChild(0).transform)
         {
             child.gameObject.layer = 3;
         }
+
         VRCamera.transform.localPosition = new Vector3(0, 1, 0);
         player.transform.eulerAngles = new Vector3(0, 0, 0);
 
