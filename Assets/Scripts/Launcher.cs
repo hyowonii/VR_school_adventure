@@ -215,12 +215,13 @@ public class Launcher : MonoBehaviourPunCallbacks
 
         if (!roomName || roomName.tag == "Untagged") // 로비 입장
         {
-            player.transform.position = new Vector3(17, 1.3f, -11);
+            player.transform.position = new Vector3(17, 0, -11);
         }
 
         if (roomName.tag == "0")       // 101 강의실 입장
         {
-            player.transform.position = new Vector3(43, 0.8f, -27);
+            //player.transform.position = new Vector3(43, 0.8f, -27);  // 101
+            player.transform.position = new Vector3(29, 7, -31);  // conference room
         }
 
         else if (roomName.tag == "1")  // office 입장

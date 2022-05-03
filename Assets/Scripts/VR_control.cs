@@ -86,18 +86,9 @@ public class VR_control : MonoBehaviour
                 animator.SetInteger("actionID", 1);
             }
 
-            if (Input.GetJoystickNames().Length > 1)
-            {
-                mx = Input.GetAxis("rightHorizontal");
-                my = Input.GetAxis("rightVertical");
-            }
-
-
-            else
-            {
-                mx = Input.GetAxis("Mouse X");
-                my = Input.GetAxis("Mouse Y");
-            }
+            mx = Input.GetAxis("Mouse X");
+            my = Input.GetAxis("Mouse Y");
+            
             rx += rotSpeed * my * Time.deltaTime;
             ry += rotSpeed * mx * Time.deltaTime;
             rx = Mathf.Clamp(rx, -40, 40);
