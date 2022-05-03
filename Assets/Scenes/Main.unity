@@ -32651,7 +32651,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 
+  m_Text: Lobby
 --- !u!222 &1185068762
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -33497,7 +33497,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 828841321}
         m_TargetAssemblyTypeName: Launcher, Assembly-CSharp
-        m_MethodName: Connect
+        m_MethodName: LeaveRoom
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

@@ -70,6 +70,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         // #Critical
         // this makes sure we can use PhotonNetwork.LoadLevel() on the master client and all clients in the same room sync their level automatically
         PhotonNetwork.AutomaticallySyncScene = true;
+        roomName.text = "Lobby";
         Connect();
 
     }
@@ -103,15 +104,19 @@ public class Launcher : MonoBehaviourPunCallbacks
         {
             Debug.Log("isConnected");
             // #Critical we need at this point to attempt joining a Random Room. If it fails, we'll get notified in OnJoinRandomFailed() and we'll create one.
-            if (roomName)                                       // roomName이 있을 경우(회의실 입장) 
-            {
-                PhotonNetwork.JoinRoom(roomName.text);
-            }
+            //if (roomName.tag != "Untagged")                                      // roomName이 있을 경우(회의실 입장) 
+            //{
+            Debug.Log(roomName.text);
+            Debug.Log(roomName.tag);
+            PhotonNetwork.JoinRoom(roomName.text);
+            //}
 
+            /*
             else                                                // roomName이 없을 경우(맨처음 로비 입장)  
             {
-                PhotonNetwork.JoinRoom("lobby");
+                PhotonNetwork.JoinRoom("Lobby");
             }
+            */
         }
         else
         {
@@ -173,7 +178,7 @@ public class Launcher : MonoBehaviourPunCallbacks
 
         else                                                // roomName이 없을 경우(맨처음 로비 입장)  
         {
-            PhotonNetwork.CreateRoom("lobby", new RoomOptions() { CleanupCacheOnLeave = false });
+            PhotonNetwork.CreateRoom("Lobby", new RoomOptions() { CleanupCacheOnLeave = false });
         }
     }
 
