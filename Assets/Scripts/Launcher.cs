@@ -148,15 +148,7 @@ public class Launcher : MonoBehaviourPunCallbacks
             Debug.Log("Connected to Master");
 
             // #Critical: The first we try to do is to join a potential existing room. If there is, good, else, we'll be called back with OnJoinRandomFailed()
-            if (roomName && roomName.tag != "Untagged")                                        // roomName이 있을 경우(회의실 입장) 
-            {
-                PhotonNetwork.JoinRoom(roomName.text);
-            }
-
-            else                                                // roomName이 없을 경우(맨처음 로비 입장)  
-            {
-                PhotonNetwork.JoinRoom("lobby");
-            }
+            PhotonNetwork.JoinRoom(roomName.text);
         }
     }
 
@@ -171,15 +163,9 @@ public class Launcher : MonoBehaviourPunCallbacks
         Debug.Log("create new room");
 
         // #Critical: we failed to join a random room, maybe none exists or they are all full. No worries, we create a new room.
-        if (roomName)                                       // roomName이 있을 경우(회의실 입장) 
-        {
-            PhotonNetwork.CreateRoom(roomName.text, new RoomOptions() { CleanupCacheOnLeave = false });
-        }
 
-        else                                                // roomName이 없을 경우(맨처음 로비 입장)  
-        {
-            PhotonNetwork.CreateRoom("Lobby", new RoomOptions() { CleanupCacheOnLeave = false });
-        }
+        PhotonNetwork.CreateRoom(roomName.text, new RoomOptions() { CleanupCacheOnLeave = false });
+ 
     }
 
 
@@ -209,6 +195,7 @@ public class Launcher : MonoBehaviourPunCallbacks
     {
         CreatePlayer();
         roomName.tag = "Untagged";
+        roomName.tag = "Lobby";
 
         Debug.Log(PhotonNetwork.CurrentRoom);
 
