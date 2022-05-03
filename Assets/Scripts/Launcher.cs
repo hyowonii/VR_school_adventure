@@ -205,6 +205,8 @@ public class Launcher : MonoBehaviourPunCallbacks
         CreatePlayer();
         roomName.tag = "Untagged";
 
+        Debug.Log(PhotonNetwork.CurrentRoom);
+
         Time.timeScale = 1;
 
     }
@@ -220,8 +222,8 @@ public class Launcher : MonoBehaviourPunCallbacks
 
         if (roomName.tag == "0")       // 101 강의실 입장
         {
-            //player.transform.position = new Vector3(43, 0.8f, -27);  // 101
-            player.transform.position = new Vector3(29, 7, -31);  // conference room
+            player.transform.position = new Vector3(43, 0.8f, -27);  // 101
+            //player.transform.position = new Vector3(29, 7, -31);  // conference room
         }
 
         else if (roomName.tag == "1")  // office 입장

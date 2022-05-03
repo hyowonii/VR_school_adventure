@@ -41,7 +41,7 @@ public class VR_control : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        photonView.RPC("setName", RpcTarget.All);
+        //photonView.RPC("setName", RpcTarget.All);
 
         if (animator == null)
         {
@@ -88,7 +88,7 @@ public class VR_control : MonoBehaviour
 
             mx = Input.GetAxis("Mouse X");
             my = Input.GetAxis("Mouse Y");
-            
+
             rx += rotSpeed * my * Time.deltaTime;
             ry += rotSpeed * mx * Time.deltaTime;
             rx = Mathf.Clamp(rx, -40, 40);
