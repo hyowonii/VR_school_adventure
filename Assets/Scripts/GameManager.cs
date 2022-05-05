@@ -7,7 +7,6 @@ public class GameManager : MonoBehaviourPunCallbacks
 {
     public GameObject[] playerPrefabs;
     public GameObject player;
-    private GameObject me;
 
     void Start()
     {

@@ -33,7 +33,8 @@ public class Launcher : MonoBehaviourPunCallbacks
     public TextMeshProUGUI playerName;
 
     public GameObject player;
-    public GameObject oldplayer;
+    public TextMeshPro nametag;
+    private GameObject oldplayer;
     private GameObject newplayer;
 
     public GameObject controlPanel;
@@ -104,19 +105,12 @@ public class Launcher : MonoBehaviourPunCallbacks
         {
             Debug.Log("isConnected");
             // #Critical we need at this point to attempt joining a Random Room. If it fails, we'll get notified in OnJoinRandomFailed() and we'll create one.
-            //if (roomName.tag != "Untagged")                                      // roomName이 있을 경우(회의실 입장) 
-            //{
-            Debug.Log(roomName.text);
-            Debug.Log(roomName.tag);
-            PhotonNetwork.JoinRoom(roomName.text);
-            //}
 
-            /*
-            else                                                // roomName이 없을 경우(맨처음 로비 입장)  
-            {
-                PhotonNetwork.JoinRoom("Lobby");
-            }
-            */
+            Debug.Log(roomName.text);
+
+            PhotonNetwork.JoinRoom(roomName.text);
+
+
         }
         else
         {
@@ -145,6 +139,8 @@ public class Launcher : MonoBehaviourPunCallbacks
         // we don't want to do anything.
         if (isConnecting)
         {
+            SetName();
+
             Debug.Log("Connected to Master");
 
             // #Critical: The first we try to do is to join a potential existing room. If there is, good, else, we'll be called back with OnJoinRandomFailed()
@@ -205,7 +201,7 @@ public class Launcher : MonoBehaviourPunCallbacks
 
     private void CreatePlayer()
     {
-        oldplayer = player.transform.GetChild(1).gameObject;
+        oldplayer = player.transform.GetChild(2).gameObject;
 
         if (!roomName || roomName.tag == "Untagged") // 로비 입장
         {
@@ -257,9 +253,10 @@ public class Launcher : MonoBehaviourPunCallbacks
         
     }
 
-    public void OnDisconnected()
+    public void SetName()
     {
-        Connect();
+        player.transform.GetChild(1).GetComponent<TextMeshPro>().text = playerName.text;
+        Debug.Log("setname");
     }
 #endregion
 }
