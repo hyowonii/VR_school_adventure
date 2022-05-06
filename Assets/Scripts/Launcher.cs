@@ -43,6 +43,8 @@ public class Launcher : MonoBehaviourPunCallbacks
     public GameObject VRCamera;
     public GameObject recordUI;
 
+    private Vector3 lobbyVector = new Vector3(20, 8, -36);
+
 
     #endregion
 
@@ -207,7 +209,9 @@ public class Launcher : MonoBehaviourPunCallbacks
 
         if (!roomName || roomName.tag == "Untagged") // 로비 입장
         {
-            player.transform.position = new Vector3(17, 0, -11);
+            player.transform.position = lobbyVector;
+            
+            //player.transform.position = new Vector3(17, 0, -11);
         }
 
         if (roomName.tag == "0")       //  강의실 입장
@@ -223,7 +227,7 @@ public class Launcher : MonoBehaviourPunCallbacks
 
         else if (roomName.tag == "2")   // conference room 입장
         {
-            player.transform.position = new Vector3(29, 7, -31);  // conference room
+            player.transform.position = new Vector3(29, 8, -29);  // conference room
 
         }
 
@@ -261,6 +265,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         me.transform.localScale = new Vector3(0.2f, 0.5f, 0.2f);
         me.transform.SetParent(player.transform);
 
+        lobbyVector = player.transform.position;
 
         PhotonNetwork.LeaveRoom();
         
