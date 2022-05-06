@@ -195,6 +195,8 @@ public class Launcher : MonoBehaviourPunCallbacks
         
         Debug.Log(PhotonNetwork.CurrentRoom);
 
+        Debug.Log(PhotonNetwork.CurrentRoom);
+
         Time.timeScale = 1;
 
     }
