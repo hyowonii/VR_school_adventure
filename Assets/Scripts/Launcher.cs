@@ -140,8 +140,6 @@ public class Launcher : MonoBehaviourPunCallbacks
         // we don't want to do anything.
         if (isConnecting)
         {
-            SetName();
-
             Debug.Log("Connected to Master");
 
             // #Critical: The first we try to do is to join a potential existing room. If there is, good, else, we'll be called back with OnJoinRandomFailed()
@@ -194,7 +192,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         roomName.tag = "Untagged";
         roomName.tag = "Lobby";
 
-        //photonView.RPC("SetName", PhotonTargets.all);
+        
         Debug.Log(PhotonNetwork.CurrentRoom);
 
         Time.timeScale = 1;
@@ -203,22 +201,28 @@ public class Launcher : MonoBehaviourPunCallbacks
 
     private void CreatePlayer()
     {
-        oldplayer = player.transform.GetChild(2).gameObject;
+        oldplayer = player.transform.GetChild(1).gameObject;
 
         if (!roomName || roomName.tag == "Untagged") // 로비 입장
         {
             player.transform.position = new Vector3(17, 0, -11);
         }
 
-        if (roomName.tag == "0")       // 101 강의실 입장
+        if (roomName.tag == "0")       //  강의실 입장
         {
-            player.transform.position = new Vector3(43, 0.8f, -27);  // 101
-            //player.transform.position = new Vector3(29, 7, -31);  // conference room
+            //player.transform.position = new Vector3(43, 0.8f, -27);  // 101
+            player.transform.position = new Vector3(28, 0, -1);  // police
         }
 
         else if (roomName.tag == "1")  // office 입장
         {
             player.transform.position = new Vector3(-2, 7.5f, -23);
+        }
+
+        else if (roomName.tag == "2")   // conference room 입장
+        {
+            player.transform.position = new Vector3(29, 7, -31);  // conference room
+
         }
 
         if (randomPrefab == -1)
@@ -230,6 +234,8 @@ public class Launcher : MonoBehaviourPunCallbacks
         newplayer.transform.SetParent(player.transform);
         newplayer.transform.localEulerAngles = new Vector3(0, 0, 0);
         newplayer.layer = 3;
+
+        //PhotonView.RPC("SetName", PhotonTargets.all);
 
         foreach (Transform child in newplayer.transform.GetChild(0).transform)
         {

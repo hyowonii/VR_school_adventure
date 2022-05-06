@@ -43,12 +43,12 @@ public class VR_control : MonoBehaviour
     {
         if (animator == null)
         {
-            animator = gameObject.transform.GetChild(2).GetChild(0).GetComponent<Animator>();
+            animator = gameObject.transform.GetChild(1).GetChild(0).GetComponent<Animator>();
         }
 
         if (OVRManager.isHmdPresent)
         {
-            gameObject.transform.GetChild(2).transform.eulerAngles = new Vector3(0, VREyes.transform.eulerAngles.y, 0);
+            gameObject.transform.GetChild(1).transform.eulerAngles = new Vector3(0, VREyes.transform.eulerAngles.y, 0);
 
             stickInput = OVRInput.Get(OVRInput.Axis2D.PrimaryThumbstick);
 
