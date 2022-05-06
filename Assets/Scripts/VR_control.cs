@@ -33,7 +33,7 @@ public class VR_control : MonoBehaviour
 
         if (PhotonNetwork.IsConnected)
         {
-            photonView = PhotonView.Get(gameObject.transform.GetChild(1));
+            photonView = PhotonView.Get(gameObject.transform.GetChild(2));
             VRCamera.transform.localPosition = new Vector3(0, 1 / scale, 0);
         }
     }
@@ -41,16 +41,14 @@ public class VR_control : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        photonView.RPC("setName", RpcTarget.All);
-
         if (animator == null)
         {
-            animator = gameObject.transform.GetChild(1).GetChild(0).GetComponent<Animator>();
+            animator = gameObject.transform.GetChild(2).GetChild(0).GetComponent<Animator>();
         }
 
         if (OVRManager.isHmdPresent)
         {
-            gameObject.transform.GetChild(1).transform.eulerAngles = new Vector3(0, VREyes.transform.eulerAngles.y, 0);
+            gameObject.transform.GetChild(2).transform.eulerAngles = new Vector3(0, VREyes.transform.eulerAngles.y, 0);
 
             stickInput = OVRInput.Get(OVRInput.Axis2D.PrimaryThumbstick);
 
@@ -88,7 +86,7 @@ public class VR_control : MonoBehaviour
 
             mx = Input.GetAxis("Mouse X");
             my = Input.GetAxis("Mouse Y");
-            
+
             rx += rotSpeed * my * Time.deltaTime;
             ry += rotSpeed * mx * Time.deltaTime;
             rx = Mathf.Clamp(rx, -40, 40);
@@ -98,13 +96,6 @@ public class VR_control : MonoBehaviour
             dir.Normalize();
             gameObject.transform.Translate(dir * speed * Time.deltaTime);
         }
-    }
-
-    [PunRPC]
-    void setName()
-    {
-        TextMeshPro nametag = gameObject.transform.GetChild(1).GetComponent<TextMeshPro>();
-        nametag.text = gameObject.name;
     }
 
 }
