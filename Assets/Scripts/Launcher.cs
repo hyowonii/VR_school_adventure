@@ -213,7 +213,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         if (roomName.tag == "0")       //  강의실 입장
         {
             //player.transform.position = new Vector3(43, 0.8f, -27);  // 101
-            player.transform.position = new Vector3(28, 0, -1);  // police
+            player.transform.position = new Vector3(45 , 0, -12);  // police
         }
 
         else if (roomName.tag == "1")  // office 입장

@@ -6,6 +6,7 @@ TagManager:
   tags:
   - 0
   - 1
+  - 2
   layers:
   - Default
   - TransparentFX
