@@ -140,7 +140,6 @@ public class Launcher : MonoBehaviourPunCallbacks
         // we don't want to do anything.
         if (isConnecting)
         {
-            SetName();
 
             Debug.Log("Connected to Master");
 
