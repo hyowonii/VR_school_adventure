@@ -36,6 +36,7 @@ public class Launcher : MonoBehaviourPunCallbacks
     public TextMeshPro nametag;
     private GameObject oldplayer;
     private GameObject newplayer;
+    private int randomPrefab = -1;
 
     public GameObject controlPanel;
     public GameObject[] playerPrefabs;
@@ -160,7 +161,7 @@ public class Launcher : MonoBehaviourPunCallbacks
 
         // #Critical: we failed to join a random room, maybe none exists or they are all full. No worries, we create a new room.
 
-        PhotonNetwork.CreateRoom(roomName.text, new RoomOptions() { CleanupCacheOnLeave = false });
+        PhotonNetwork.CreateRoom(roomName.text);
  
     }
 
@@ -193,6 +194,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         roomName.tag = "Untagged";
         roomName.tag = "Lobby";
 
+        //photonView.RPC("SetName", PhotonTargets.all);
         Debug.Log(PhotonNetwork.CurrentRoom);
 
         Time.timeScale = 1;
@@ -219,8 +221,10 @@ public class Launcher : MonoBehaviourPunCallbacks
             player.transform.position = new Vector3(-2, 7.5f, -23);
         }
 
-        int randomPrefab = UnityEngine.Random.Range(0, playerPrefabs.Length);
-
+        if (randomPrefab == -1)
+        {
+            randomPrefab = UnityEngine.Random.Range(0, playerPrefabs.Length);
+        }
         newplayer = PhotonNetwork.Instantiate(playerPrefabs[randomPrefab].name, player.transform.position, Quaternion.identity, 0);
         newplayer.transform.localScale = new Vector3(0.25f, 0.25f, 0.25f);
         newplayer.transform.SetParent(player.transform);
@@ -236,6 +240,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         player.transform.eulerAngles = new Vector3(0, 0, 0);
 
         newplayer.name = playerName.text;
+        PhotonNetwork.NickName = playerName.text;
 
         player.GetComponent<Rigidbody>().isKinematic = false;
 
@@ -253,10 +258,10 @@ public class Launcher : MonoBehaviourPunCallbacks
         
     }
 
+    [PunRPC]
     public void SetName()
     {
-        player.transform.GetChild(1).GetComponent<TextMeshPro>().text = playerName.text;
-        Debug.Log("setname");
+        newplayer.transform.GetChild(1).GetComponent<TextMeshPro>().text = photonView.Owner.NickName;
     }
 #endregion
 }
