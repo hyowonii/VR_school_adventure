@@ -1,4 +1,4 @@
-﻿// --------------------------------------------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------------------------------------------
 // <copyright file="Launcher.cs" company="Exit Games GmbH">
 //   Part of: Photon Unity Networking Demos
 // </copyright>
@@ -192,12 +192,12 @@ public class Launcher : MonoBehaviourPunCallbacks
     {
         CreatePlayer();
         roomName.tag = "Untagged";
-        roomName.tag = "Lobby";
+        roomName.text = "Lobby";
 
+        newplayer.GetComponent<PhotonView>().RPC("setName", RpcTarget.All);
+
+        Debug.Log(PhotonNetwork.CurrentRoom);
         
-        Debug.Log(PhotonNetwork.CurrentRoom);
-
-        Debug.Log(PhotonNetwork.CurrentRoom);
 
         Time.timeScale = 1;
 
@@ -241,8 +241,6 @@ public class Launcher : MonoBehaviourPunCallbacks
         newplayer.transform.localEulerAngles = new Vector3(0, 0, 0);
         newplayer.layer = 3;
 
-        //PhotonView.RPC("SetName", PhotonTargets.all);
-
         foreach (Transform child in newplayer.transform.GetChild(0).transform)
         {
             child.gameObject.layer = 3;
@@ -261,20 +259,16 @@ public class Launcher : MonoBehaviourPunCallbacks
 
     public void LeaveRoom()
     {
+        if (PhotonNetwork.CurrentRoom.Name == "Lobby"){
+            lobbyVector = player.transform.position;
+        }
+
         GameObject me = GameObject.CreatePrimitive(PrimitiveType.Cube);
         me.transform.localScale = new Vector3(0.2f, 0.5f, 0.2f);
         me.transform.SetParent(player.transform);
 
-        lobbyVector = player.transform.position;
-
         PhotonNetwork.LeaveRoom();
         
-    }
-
-    [PunRPC]
-    public void SetName()
-    {
-        newplayer.transform.GetChild(1).GetComponent<TextMeshPro>().text = photonView.Owner.NickName;
     }
 #endregion
 }
