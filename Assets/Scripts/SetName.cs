@@ -12,7 +12,7 @@ public class SetName : MonoBehaviourPunCallbacks
     // Start is called before the first frame update
     void Start()
     {
-        
+        setName(PhotonNetwork.NickName);
     }
 
     // Update is called once per frame
@@ -22,16 +22,18 @@ public class SetName : MonoBehaviourPunCallbacks
     }
 
     public override void OnJoinedRoom(){
-        this.GetComponent<PhotonView>().RPC("setName", RpcTarget.All, this.name);
-        Debug.Log(this.name);
+        this.GetComponent<PhotonView>().RPC("setName", RpcTarget.AllBuffered, PhotonNetwork.NickName);
+        Debug.Log(PhotonNetwork.NickName);
         Debug.Log("Onjoinedroom----------------------");
     }
 
+    /*
     public override void OnPlayerEnteredRoom(Player newPlayer){
-        this.GetComponent<PhotonView>().RPC("setName", RpcTarget.All, this.name);
+        this.GetComponent<PhotonView>().RPC("setName", RpcTarget.AllBuffered, this.name);
         Debug.Log(this.name);
         Debug.Log("Onplayerjoinedroom----------------------");
     }
+    */
 
     [PunRPC]
     public void setName(string name)

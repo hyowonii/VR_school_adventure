@@ -34612,7 +34612,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Lobby
+  m_Text: 
 --- !u!222 &1185068762
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -44493,6 +44493,10 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 4080549224740918691, guid: 83d1cfc9618ab7e43a79f6722345e484, type: 3}
+      propertyPath: sceneViewId
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4350233670271922138, guid: 83d1cfc9618ab7e43a79f6722345e484, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -44553,11 +44557,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Char08_girl_black
       objectReference: {fileID: 0}
+    - target: {fileID: 4824045238497193757, guid: 83d1cfc9618ab7e43a79f6722345e484, type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 5189391680459987349, guid: 83d1cfc9618ab7e43a79f6722345e484, type: 3}
       propertyPath: sceneViewId
       value: 8
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 7928653972108220101, guid: 83d1cfc9618ab7e43a79f6722345e484, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 83d1cfc9618ab7e43a79f6722345e484, type: 3}
 --- !u!1 &1515874826
 GameObject:

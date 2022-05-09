@@ -7,7 +7,7 @@
 // </summary>
 // <author>developer@exitgames.com</author>
 // --------------------------------------------------------------------------------------------------------------------
-//수정본
+//?�정�?
 
 using UnityEngine;
 using UnityEngine.UI;
@@ -91,14 +91,14 @@ public class Launcher : MonoBehaviourPunCallbacks
     /// </summary>
     public void Connect()
     {
-        if (PhotonNetwork.CurrentRoom != null)                     // 현재 room에 참여하고 있는 상태라면 leave
+        if (PhotonNetwork.CurrentRoom != null)                     // ?�재 room??참여?�고 ?�는 ?�태?�면 leave
         {     
             LeaveRoom();
         }
             
         isConnecting = true;
 
-        // UI_record 표시
+        // UI_record ?�시
         if (recordUI)
         {
             recordUI.SetActive(true);
@@ -143,6 +143,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         if (isConnecting)
         {
             Debug.Log("Connected to Master");
+            PhotonNetwork.NickName = playerName.text;
 
             // #Critical: The first we try to do is to join a potential existing room. If there is, good, else, we'll be called back with OnJoinRandomFailed()
             PhotonNetwork.JoinRoom(roomName.text);
@@ -191,13 +192,14 @@ public class Launcher : MonoBehaviourPunCallbacks
     public override void OnJoinedRoom()
     {
         CreatePlayer();
+        Debug.Log(PhotonNetwork.NickName);
+
         roomName.tag = "Untagged";
         roomName.text = "Lobby";
 
-        //newplayer.GetComponent<PhotonView>().RPC("setName", RpcTarget.All, newplayer.name);
+        PhotonNetwork.LocalPlayer.NickName = playerName.text;
 
         Debug.Log(PhotonNetwork.CurrentRoom);
-        
 
         Time.timeScale = 1;
 
@@ -207,25 +209,25 @@ public class Launcher : MonoBehaviourPunCallbacks
     {
         oldplayer = player.transform.GetChild(1).gameObject;
 
-        if (!roomName || roomName.tag == "Untagged") // 로비 입장
+        if (roomName.tag == "Untagged") // 로비 ?�장
         {
             player.transform.position = lobbyVector;
             
             //player.transform.position = new Vector3(17, 0, -11);
         }
 
-        if (roomName.tag == "0")       //  강의실 입장
+        if (roomName.tag == "0")       //  강의???�장
         {
             //player.transform.position = new Vector3(43, 0.8f, -27);  // 101
             player.transform.position = new Vector3(45 , 0, -12);  // police
         }
 
-        else if (roomName.tag == "1")  // office 입장
+        else if (roomName.tag == "1")  // office ?�장
         {
             player.transform.position = new Vector3(-2, 7.5f, -23);
         }
 
-        else if (roomName.tag == "2")   // conference room 입장
+        else if (roomName.tag == "2")   // conference room ?�장
         {
             player.transform.position = new Vector3(29, 8, -29);  // conference room
 
@@ -250,9 +252,8 @@ public class Launcher : MonoBehaviourPunCallbacks
         player.transform.eulerAngles = new Vector3(0, 0, 0);
 
         newplayer.name = playerName.text;
-        PhotonNetwork.NickName = playerName.text;
-
-        Debug.Log(PhotonNetwork.NickName);
+        
+        Debug.Log("nickname : " + PhotonNetwork.NickName);
 
         player.GetComponent<Rigidbody>().isKinematic = false;
 
@@ -270,7 +271,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         me.transform.SetParent(player.transform);
 
         PhotonNetwork.LeaveRoom();
-        
+
     }
 #endregion
 }
