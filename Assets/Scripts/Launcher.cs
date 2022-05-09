@@ -194,7 +194,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         roomName.tag = "Untagged";
         roomName.text = "Lobby";
 
-        newplayer.GetComponent<PhotonView>().RPC("setName", RpcTarget.All);
+        //newplayer.GetComponent<PhotonView>().RPC("setName", RpcTarget.All, newplayer.name);
 
         Debug.Log(PhotonNetwork.CurrentRoom);
         
@@ -251,6 +251,8 @@ public class Launcher : MonoBehaviourPunCallbacks
 
         newplayer.name = playerName.text;
         PhotonNetwork.NickName = playerName.text;
+
+        Debug.Log(PhotonNetwork.NickName);
 
         player.GetComponent<Rigidbody>().isKinematic = false;
 
