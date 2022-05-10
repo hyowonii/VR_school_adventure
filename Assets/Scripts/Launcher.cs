@@ -7,7 +7,7 @@
 // </summary>
 // <author>developer@exitgames.com</author>
 // --------------------------------------------------------------------------------------------------------------------
-//?�정�?
+//?�정�?
 
 using UnityEngine;
 using UnityEngine.UI;
@@ -91,14 +91,14 @@ public class Launcher : MonoBehaviourPunCallbacks
     /// </summary>
     public void Connect()
     {
-        if (PhotonNetwork.CurrentRoom != null)                     // ?�재 room??참여?�고 ?�는 ?�태?�면 leave
+        if (PhotonNetwork.CurrentRoom != null)                     // ?�재 room??참여?�고 ?�는 ?�태?�면 leave
         {     
             LeaveRoom();
         }
             
         isConnecting = true;
 
-        // UI_record ?�시
+        // UI_record ?�시
         if (recordUI)
         {
             recordUI.SetActive(true);
@@ -197,7 +197,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         roomName.tag = "Untagged";
         roomName.text = "Lobby";
 
-        PhotonNetwork.LocalPlayer.NickName = playerName.text;
+        PhotonNetwork.NickName = playerName.text;
 
         Debug.Log(PhotonNetwork.CurrentRoom);
 
@@ -209,25 +209,25 @@ public class Launcher : MonoBehaviourPunCallbacks
     {
         oldplayer = player.transform.GetChild(1).gameObject;
 
-        if (roomName.tag == "Untagged") // 로비 ?�장
+        if (roomName.tag == "Untagged") // 로비 ?�장
         {
             player.transform.position = lobbyVector;
             
             //player.transform.position = new Vector3(17, 0, -11);
         }
 
-        if (roomName.tag == "0")       //  강의???�장
+        if (roomName.tag == "0")       //  강의???�장
         {
             //player.transform.position = new Vector3(43, 0.8f, -27);  // 101
             player.transform.position = new Vector3(45 , 0, -12);  // police
         }
 
-        else if (roomName.tag == "1")  // office ?�장
+        else if (roomName.tag == "1")  // office ?�장
         {
             player.transform.position = new Vector3(-2, 7.5f, -23);
         }
 
-        else if (roomName.tag == "2")   // conference room ?�장
+        else if (roomName.tag == "2")   // conference room ?�장
         {
             player.transform.position = new Vector3(29, 8, -29);  // conference room
 

@@ -12,7 +12,7 @@ public class SetName : MonoBehaviourPunCallbacks
     // Start is called before the first frame update
     void Start()
     {
-        setName(PhotonNetwork.NickName);
+        setName();
     }
 
     // Update is called once per frame
@@ -22,7 +22,7 @@ public class SetName : MonoBehaviourPunCallbacks
     }
 
     public override void OnJoinedRoom(){
-        this.GetComponent<PhotonView>().RPC("setName", RpcTarget.AllBuffered, PhotonNetwork.NickName);
+        this.GetComponent<PhotonView>().RPC("setName", RpcTarget.AllBuffered);
         Debug.Log(PhotonNetwork.NickName);
         Debug.Log("Onjoinedroom----------------------");
     }
@@ -36,8 +36,8 @@ public class SetName : MonoBehaviourPunCallbacks
     */
 
     [PunRPC]
-    public void setName(string name)
+    public void setName()
     {
-        this.transform.GetChild(2).GetComponent<TextMeshPro>().text = name;
+        this.transform.GetChild(2).GetComponent<TextMeshPro>().text = this.GetComponent<PhotonView>().Owner.NickName;
     }
 }
