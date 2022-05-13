@@ -10,7 +10,6 @@ public class Recording : MonoBehaviour
     int sampleRate = 44100;
     public float[] samples;
 
-
     // Start is called before the first frame update
     void Start()
     {
@@ -27,19 +26,19 @@ public class Recording : MonoBehaviour
 
     void BtnDown()
     {
-        if (OVRInput.GetDown(OVRInput.Button.Three))
+        if (OVRInput.GetDown(OVRInput.Button.Three) || Input.GetKeyDown("1"))
         {
             if (aud.clip != null) Destroy(aud.clip);
             aud.clip = Microphone.Start(null, false, 900, sampleRate);
             while (!(Microphone.GetPosition(null) > 0)) ;
         }
 
-        if (OVRInput.GetDown(OVRInput.Button.Four))
+        if (OVRInput.GetDown(OVRInput.Button.Four) || Input.GetKeyDown("2"))
         {
             Microphone.End(Microphone.devices[0]);
         }
 
-        if (OVRInput.GetDown(OVRInput.Button.Two))
+        if (OVRInput.GetDown(OVRInput.Button.Two) || Input.GetKeyDown("3"))
         {
             DateTime t = DateTime.Now;
             string today = t.ToString(" yyyy-MM-dd-HH-mm-ss");

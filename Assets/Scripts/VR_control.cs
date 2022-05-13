@@ -27,6 +27,7 @@ public class VR_control : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log(Application.persistentDataPath);
         float scale = gameObject.transform.lossyScale.y;
 
         Debug.Log(scale);

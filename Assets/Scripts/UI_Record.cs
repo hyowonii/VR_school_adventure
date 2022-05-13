@@ -14,7 +14,7 @@ public class UI_Record : MonoBehaviour
 
     private void Start()
     {
-        aud = GetComponent<AudioSource>();
+           aud = GetComponent<AudioSource>();
     }
 
     public void RecSnd()
