@@ -43,8 +43,8 @@ public class Launcher : MonoBehaviourPunCallbacks
     public GameObject VRCamera;
     public GameObject recordUI;
 
-    private Vector3 lobbyVector = new Vector3(20, 8, -36);  // 3층 입구
-    //private Vector3 lobbyVector = new Vector3(17, 0, -11);    // 1층 입구
+    //private Vector3 lobbyVector = new Vector3(20, 8, -36);  // 3층 입구
+    private Vector3 lobbyVector = new Vector3(17, 0, -11);    // 1층 입구
 
 
     #endregion
