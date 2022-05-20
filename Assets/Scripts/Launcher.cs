@@ -199,7 +199,7 @@ public class Launcher : MonoBehaviourPunCallbacks
         roomName.text = "Lobby";
 
         PhotonNetwork.NickName = playerName.text;
-        this.transform.GetChild(2).GetComponent<TextMeshPro>().text = "";
+        player.transform.GetChild(1).GetChild(2).GetComponent<TextMeshPro>().text = "";
 
         Debug.Log(PhotonNetwork.CurrentRoom);
 

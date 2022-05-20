@@ -20,7 +20,7 @@ public class UI_Record : MonoBehaviour
     public void RecSnd()
     {
         if (aud.clip != null) Destroy(aud.clip);
-        aud.clip = Microphone.Start(null, false, 900, sampleRate);
+        aud.clip = Microphone.Start(null, false, 600, sampleRate);
         while (!(Microphone.GetPosition(null) > 0)) ;
     }
 
