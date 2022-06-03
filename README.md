@@ -2,7 +2,7 @@
 
 ### : 현실감 있는 비대면 소통을 위한 실제 공간 기반 VR 메타버스 플랫폼
 - - -
-[실행파일 다운로드](https://docs.google.com/uc?export=download&id=1UhfQ7UQ13VbOhtqBw1v9axn8DyCC6CGL)
+[실행파일 다운로드](https://docs.google.com/uc?export=download&id=1rwhYHnfO6ICBj5JkdEeM8i4uMVTp8VsW)
 
 실행방법 : 파일을 다운로드하고 압축을 푼 후, 생생공대통.exe 파일을 실행  
 
